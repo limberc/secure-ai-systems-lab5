@@ -1,0 +1,2 @@
+# Anything your gateway needs beyond the standard library. The provided skeleton needs nothing.
+# If you add packages, install them in gateway/Dockerfile too, and pin their versions.

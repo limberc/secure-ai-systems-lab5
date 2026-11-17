@@ -1,0 +1,16 @@
+# Alert rules. Alerts reach the alert sink through Alertmanager
+# (monitoring/alertmanager/alertmanager.yml) and count from the moment they arrive.
+#
+# Mind the clock: a 5 s scrape, a 5 s evaluation, a `for:` and Alertmanager's
+# group_wait all add up, and a segment of the workload lasts 40 s. An alert your
+# gateway raises itself (POST to the sink) can arrive in a second. Use either
+# path, or both -- handout section 2 says how alerts are counted.
+groups:
+  - name: lab5
+    rules:
+      - alert: GatewayDown
+        expr: up{job="gateway"} == 0
+        for: 15s
+        labels: {severity: critical}
+        annotations: {summary: "Prometheus cannot scrape the gateway"}
+      # TODO: alerts for the failure modes in your runbook.

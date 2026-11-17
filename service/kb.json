@@ -1,0 +1,962 @@
+[
+ {
+  "id": "KB-1000#1",
+  "article": "KB-1000",
+  "title": "VPN access from home",
+  "text": "VPN access from home: GlobalProtect client. This article explains GlobalProtect client for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Select the vpn settings and make sure GlobalProtect client is enabled before you continue. If GlobalProtect client does not work after 11 minutes, raise a ticket with category 'vpn' and include the error text. Select the vpn settings and make sure GlobalProtect client is enabled before you continue. The service desk can help with GlobalProtect client between 08:00 and 19:00 KST on working days. If GlobalProtect client does not work after 10 minutes, raise a ticket with category 'vpn' and include the error text. Verify the vpn settings and make sure GlobalProtect client is enabled before you continue. Do not share screenshots of GlobalProtect client that show account names or internal addresses. The service desk can help with GlobalProtect client between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1000#2",
+  "article": "KB-1000",
+  "title": "VPN access from home",
+  "text": "VPN access from home: the Seoul gateway. This article explains the Seoul gateway for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to the Seoul gateway within 10 working days. If the Seoul gateway does not work after 6 minutes, raise a ticket with category 'vpn' and include the error text. Do not share screenshots of the Seoul gateway that show account names or internal addresses. Select the vpn settings and make sure the Seoul gateway is enabled before you continue. Changes to the Seoul gateway are recorded in the asset system and reviewed every quarter. Most problems with the Seoul gateway are fixed by signing out, waiting a minute, and signing in again. If the Seoul gateway does not work after 6 minutes, raise a ticket with category 'vpn' and include the error text. If the Seoul gateway does not work after 9 minutes, raise a ticket with category 'vpn' and include the error text."
+ },
+ {
+  "id": "KB-1000#3",
+  "article": "KB-1000",
+  "title": "VPN access from home",
+  "text": "VPN access from home: split tunnelling. This article explains split tunnelling for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the vpn kiosk instead of calling. Most problems with split tunnelling are fixed by signing out, waiting a minute, and signing in again. Changes to split tunnelling are recorded in the asset system and reviewed every quarter. Managers approve requests related to split tunnelling within 4 working days. Confirm the vpn settings and make sure split tunnelling is enabled before you continue. Do not share screenshots of split tunnelling that show account names or internal addresses. Warehouse staff on night shifts should use the vpn kiosk instead of calling. Managers approve requests related to split tunnelling within 2 working days. Warehouse staff on night shifts should use the vpn kiosk instead of calling. Warehouse staff on night shifts should use the vpn kiosk instead of calling. Do not share screenshots of split tunnelling that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1000#4",
+  "article": "KB-1000",
+  "title": "VPN access from home",
+  "text": "VPN access from home: certificate renewal. This article explains certificate renewal for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to certificate renewal within 17 working days. Warehouse staff on night shifts should use the vpn kiosk instead of calling. Warehouse staff on night shifts should use the vpn kiosk instead of calling. Do not share screenshots of certificate renewal that show account names or internal addresses. Do not share screenshots of certificate renewal that show account names or internal addresses. Do not share screenshots of certificate renewal that show account names or internal addresses. Do not share screenshots of certificate renewal that show account names or internal addresses. Do not share screenshots of certificate renewal that show account names or internal addresses. Do not share screenshots of certificate renewal that show account names or internal addresses. Most problems with certificate renewal are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1007#1",
+  "article": "KB-1007",
+  "title": "Resetting your password",
+  "text": "Resetting your password: the self-service portal. This article explains the self-service portal for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If the self-service portal does not work after 25 minutes, raise a ticket with category 'password' and include the error text. The service desk can help with the self-service portal between 08:00 and 19:00 KST on working days. The service desk can help with the self-service portal between 08:00 and 19:00 KST on working days. Changes to the self-service portal are recorded in the asset system and reviewed every quarter. The service desk can help with the self-service portal between 08:00 and 19:00 KST on working days. The service desk can help with the self-service portal between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the password kiosk instead of calling. Warehouse staff on night shifts should use the password kiosk instead of calling. Warehouse staff on night shifts should use the password kiosk instead of calling."
+ },
+ {
+  "id": "KB-1007#2",
+  "article": "KB-1007",
+  "title": "Resetting your password",
+  "text": "Resetting your password: password history. This article explains password history for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the password kiosk instead of calling. Changes to password history are recorded in the asset system and reviewed every quarter. Most problems with password history are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of password history that show account names or internal addresses. Most problems with password history are fixed by signing out, waiting a minute, and signing in again. Select the password settings and make sure password history is enabled before you continue. Do not share screenshots of password history that show account names or internal addresses. Submit the password settings and make sure password history is enabled before you continue. Do not share screenshots of password history that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1007#3",
+  "article": "KB-1007",
+  "title": "Resetting your password",
+  "text": "Resetting your password: lockout after five attempts. This article explains lockout after five attempts for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Contact the password settings and make sure lockout after five attempts is enabled before you continue. Warehouse staff on night shifts should use the password kiosk instead of calling. The service desk can help with lockout after five attempts between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the password kiosk instead of calling. Most problems with lockout after five attempts are fixed by signing out, waiting a minute, and signing in again. Most problems with lockout after five attempts are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to lockout after five attempts within 27 working days. Managers approve requests related to lockout after five attempts within 9 working days. Changes to lockout after five attempts are recorded in the asset system and reviewed every quarter. Most problems with lockout after five attempts are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1007#4",
+  "article": "KB-1007",
+  "title": "Resetting your password",
+  "text": "Resetting your password: the 90-day expiry. This article explains the 90-day expiry for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to the 90-day expiry are recorded in the asset system and reviewed every quarter. If the 90-day expiry does not work after 19 minutes, raise a ticket with category 'password' and include the error text. Do not share screenshots of the 90-day expiry that show account names or internal addresses. Managers approve requests related to the 90-day expiry within 24 working days. Most problems with the 90-day expiry are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the password kiosk instead of calling. Changes to the 90-day expiry are recorded in the asset system and reviewed every quarter. Verify the password settings and make sure the 90-day expiry is enabled before you continue. Check the password settings and make sure the 90-day expiry is enabled before you continue."
+ },
+ {
+  "id": "KB-1014#1",
+  "article": "KB-1014",
+  "title": "Multi-factor authentication",
+  "text": "Multi-factor authentication: the authenticator app. This article explains the authenticator app for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with the authenticator app are fixed by signing out, waiting a minute, and signing in again. Restart the mfa settings and make sure the authenticator app is enabled before you continue. Most problems with the authenticator app are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of the authenticator app that show account names or internal addresses. If the authenticator app does not work after 20 minutes, raise a ticket with category 'mfa' and include the error text. Managers approve requests related to the authenticator app within 24 working days. Changes to the authenticator app are recorded in the asset system and reviewed every quarter. Do not share screenshots of the authenticator app that show account names or internal addresses. Changes to the authenticator app are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1014#2",
+  "article": "KB-1014",
+  "title": "Multi-factor authentication",
+  "text": "Multi-factor authentication: hardware keys. This article explains hardware keys for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to hardware keys within 18 working days. The service desk can help with hardware keys between 08:00 and 19:00 KST on working days. Do not share screenshots of hardware keys that show account names or internal addresses. Changes to hardware keys are recorded in the asset system and reviewed every quarter. If hardware keys does not work after 26 minutes, raise a ticket with category 'mfa' and include the error text. Do not share screenshots of hardware keys that show account names or internal addresses. Changes to hardware keys are recorded in the asset system and reviewed every quarter. Do not share screenshots of hardware keys that show account names or internal addresses. Verify the mfa settings and make sure hardware keys is enabled before you continue. Most problems with hardware keys are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1014#3",
+  "article": "KB-1014",
+  "title": "Multi-factor authentication",
+  "text": "Multi-factor authentication: backup codes. This article explains backup codes for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Restart the mfa settings and make sure backup codes is enabled before you continue. Open the mfa settings and make sure backup codes is enabled before you continue. If backup codes does not work after 10 minutes, raise a ticket with category 'mfa' and include the error text. Check the mfa settings and make sure backup codes is enabled before you continue. Most problems with backup codes are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the mfa kiosk instead of calling. Changes to backup codes are recorded in the asset system and reviewed every quarter. The service desk can help with backup codes between 08:00 and 19:00 KST on working days. Changes to backup codes are recorded in the asset system and reviewed every quarter. Restart the mfa settings and make sure backup codes is enabled before you continue."
+ },
+ {
+  "id": "KB-1014#4",
+  "article": "KB-1014",
+  "title": "Multi-factor authentication",
+  "text": "Multi-factor authentication: a new phone. This article explains a new phone for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to a new phone within 17 working days. Changes to a new phone are recorded in the asset system and reviewed every quarter. The service desk can help with a new phone between 08:00 and 19:00 KST on working days. The service desk can help with a new phone between 08:00 and 19:00 KST on working days. Check the mfa settings and make sure a new phone is enabled before you continue. Warehouse staff on night shifts should use the mfa kiosk instead of calling. Confirm the mfa settings and make sure a new phone is enabled before you continue. Managers approve requests related to a new phone within 19 working days. Contact the mfa settings and make sure a new phone is enabled before you continue."
+ },
+ {
+  "id": "KB-1021#1",
+  "article": "KB-1021",
+  "title": "Printing at the Incheon warehouse",
+  "text": "Printing at the Incheon warehouse: the badge-release queue. This article explains the badge-release queue for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Update the printer settings and make sure the badge-release queue is enabled before you continue. If the badge-release queue does not work after 21 minutes, raise a ticket with category 'printer' and include the error text. The service desk can help with the badge-release queue between 08:00 and 19:00 KST on working days. Managers approve requests related to the badge-release queue within 9 working days. If the badge-release queue does not work after 10 minutes, raise a ticket with category 'printer' and include the error text. The service desk can help with the badge-release queue between 08:00 and 19:00 KST on working days. Changes to the badge-release queue are recorded in the asset system and reviewed every quarter. The service desk can help with the badge-release queue between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1021#2",
+  "article": "KB-1021",
+  "title": "Printing at the Incheon warehouse",
+  "text": "Printing at the Incheon warehouse: label printers. This article explains label printers for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to label printers within 24 working days. Managers approve requests related to label printers within 6 working days. Managers approve requests related to label printers within 4 working days. Changes to label printers are recorded in the asset system and reviewed every quarter. Submit the printer settings and make sure label printers is enabled before you continue. Warehouse staff on night shifts should use the printer kiosk instead of calling. Most problems with label printers are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to label printers within 13 working days. Managers approve requests related to label printers within 23 working days. Most problems with label printers are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1021#3",
+  "article": "KB-1021",
+  "title": "Printing at the Incheon warehouse",
+  "text": "Printing at the Incheon warehouse: toner requests. This article explains toner requests for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the printer kiosk instead of calling. Managers approve requests related to toner requests within 24 working days. Most problems with toner requests are fixed by signing out, waiting a minute, and signing in again. Submit the printer settings and make sure toner requests is enabled before you continue. Warehouse staff on night shifts should use the printer kiosk instead of calling. Managers approve requests related to toner requests within 15 working days. Most problems with toner requests are fixed by signing out, waiting a minute, and signing in again. The service desk can help with toner requests between 08:00 and 19:00 KST on working days. If toner requests does not work after 5 minutes, raise a ticket with category 'printer' and include the error text."
+ },
+ {
+  "id": "KB-1021#4",
+  "article": "KB-1021",
+  "title": "Printing at the Incheon warehouse",
+  "text": "Printing at the Incheon warehouse: scan-to-email. This article explains scan-to-email for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to scan-to-email within 29 working days. Do not share screenshots of scan-to-email that show account names or internal addresses. Changes to scan-to-email are recorded in the asset system and reviewed every quarter. If scan-to-email does not work after 12 minutes, raise a ticket with category 'printer' and include the error text. Managers approve requests related to scan-to-email within 5 working days. Warehouse staff on night shifts should use the printer kiosk instead of calling. Changes to scan-to-email are recorded in the asset system and reviewed every quarter. The service desk can help with scan-to-email between 08:00 and 19:00 KST on working days. The service desk can help with scan-to-email between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1028#1",
+  "article": "KB-1028",
+  "title": "Laptop replacement cycle",
+  "text": "Laptop replacement cycle: the four-year cycle. This article explains the four-year cycle for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Confirm the laptop settings and make sure the four-year cycle is enabled before you continue. Check the laptop settings and make sure the four-year cycle is enabled before you continue. If the four-year cycle does not work after 15 minutes, raise a ticket with category 'laptop' and include the error text. Do not share screenshots of the four-year cycle that show account names or internal addresses. Warehouse staff on night shifts should use the laptop kiosk instead of calling. Do not share screenshots of the four-year cycle that show account names or internal addresses. Confirm the laptop settings and make sure the four-year cycle is enabled before you continue. Managers approve requests related to the four-year cycle within 17 working days. Most problems with the four-year cycle are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1028#2",
+  "article": "KB-1028",
+  "title": "Laptop replacement cycle",
+  "text": "Laptop replacement cycle: data migration. This article explains data migration for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to data migration within 16 working days. Managers approve requests related to data migration within 3 working days. The service desk can help with data migration between 08:00 and 19:00 KST on working days. Verify the laptop settings and make sure data migration is enabled before you continue. The service desk can help with data migration between 08:00 and 19:00 KST on working days. Do not share screenshots of data migration that show account names or internal addresses. Do not share screenshots of data migration that show account names or internal addresses. Managers approve requests related to data migration within 16 working days. Update the laptop settings and make sure data migration is enabled before you continue. The service desk can help with data migration between 08:00 and 19:00 KST on working days. Select the laptop settings and make sure data migration is enabled before you continue."
+ },
+ {
+  "id": "KB-1028#3",
+  "article": "KB-1028",
+  "title": "Laptop replacement cycle",
+  "text": "Laptop replacement cycle: returning old devices. This article explains returning old devices for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Update the laptop settings and make sure returning old devices is enabled before you continue. Check the laptop settings and make sure returning old devices is enabled before you continue. If returning old devices does not work after 9 minutes, raise a ticket with category 'laptop' and include the error text. Review the laptop settings and make sure returning old devices is enabled before you continue. The service desk can help with returning old devices between 08:00 and 19:00 KST on working days. Update the laptop settings and make sure returning old devices is enabled before you continue. Warehouse staff on night shifts should use the laptop kiosk instead of calling. Managers approve requests related to returning old devices within 7 working days. Confirm the laptop settings and make sure returning old devices is enabled before you continue."
+ },
+ {
+  "id": "KB-1028#4",
+  "article": "KB-1028",
+  "title": "Laptop replacement cycle",
+  "text": "Laptop replacement cycle: loaner laptops. This article explains loaner laptops for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to loaner laptops are recorded in the asset system and reviewed every quarter. If loaner laptops does not work after 21 minutes, raise a ticket with category 'laptop' and include the error text. If loaner laptops does not work after 7 minutes, raise a ticket with category 'laptop' and include the error text. Do not share screenshots of loaner laptops that show account names or internal addresses. Warehouse staff on night shifts should use the laptop kiosk instead of calling. Managers approve requests related to loaner laptops within 11 working days. The service desk can help with loaner laptops between 08:00 and 19:00 KST on working days. Changes to loaner laptops are recorded in the asset system and reviewed every quarter. Do not share screenshots of loaner laptops that show account names or internal addresses. The service desk can help with loaner laptops between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1035#1",
+  "article": "KB-1035",
+  "title": "Email on mobile devices",
+  "text": "Email on mobile devices: the Outlook app. This article explains the Outlook app for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the email kiosk instead of calling. The service desk can help with the Outlook app between 08:00 and 19:00 KST on working days. Managers approve requests related to the Outlook app within 8 working days. Most problems with the Outlook app are fixed by signing out, waiting a minute, and signing in again. Most problems with the Outlook app are fixed by signing out, waiting a minute, and signing in again. The service desk can help with the Outlook app between 08:00 and 19:00 KST on working days. Do not share screenshots of the Outlook app that show account names or internal addresses. Changes to the Outlook app are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1035#2",
+  "article": "KB-1035",
+  "title": "Email on mobile devices",
+  "text": "Email on mobile devices: device enrolment. This article explains device enrolment for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with device enrolment are fixed by signing out, waiting a minute, and signing in again. Restart the email settings and make sure device enrolment is enabled before you continue. Check the email settings and make sure device enrolment is enabled before you continue. Confirm the email settings and make sure device enrolment is enabled before you continue. Managers approve requests related to device enrolment within 24 working days. The service desk can help with device enrolment between 08:00 and 19:00 KST on working days. Most problems with device enrolment are fixed by signing out, waiting a minute, and signing in again. If device enrolment does not work after 25 minutes, raise a ticket with category 'email' and include the error text. Warehouse staff on night shifts should use the email kiosk instead of calling. Changes to device enrolment are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1035#3",
+  "article": "KB-1035",
+  "title": "Email on mobile devices",
+  "text": "Email on mobile devices: shared mailboxes. This article explains shared mailboxes for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with shared mailboxes between 08:00 and 19:00 KST on working days. Check the email settings and make sure shared mailboxes is enabled before you continue. Most problems with shared mailboxes are fixed by signing out, waiting a minute, and signing in again. Changes to shared mailboxes are recorded in the asset system and reviewed every quarter. Managers approve requests related to shared mailboxes within 20 working days. Check the email settings and make sure shared mailboxes is enabled before you continue. Changes to shared mailboxes are recorded in the asset system and reviewed every quarter. If shared mailboxes does not work after 21 minutes, raise a ticket with category 'email' and include the error text. Changes to shared mailboxes are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1035#4",
+  "article": "KB-1035",
+  "title": "Email on mobile devices",
+  "text": "Email on mobile devices: out-of-office rules. This article explains out-of-office rules for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to out-of-office rules within 18 working days. Do not share screenshots of out-of-office rules that show account names or internal addresses. If out-of-office rules does not work after 25 minutes, raise a ticket with category 'email' and include the error text. Do not share screenshots of out-of-office rules that show account names or internal addresses. Warehouse staff on night shifts should use the email kiosk instead of calling. Most problems with out-of-office rules are fixed by signing out, waiting a minute, and signing in again. If out-of-office rules does not work after 16 minutes, raise a ticket with category 'email' and include the error text. Do not share screenshots of out-of-office rules that show account names or internal addresses. Warehouse staff on night shifts should use the email kiosk instead of calling."
+ },
+ {
+  "id": "KB-1042#1",
+  "article": "KB-1042",
+  "title": "Wi-Fi at Hanbit sites",
+  "text": "Wi-Fi at Hanbit sites: the staff network. This article explains the staff network for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with the staff network between 08:00 and 19:00 KST on working days. Do not share screenshots of the staff network that show account names or internal addresses. Changes to the staff network are recorded in the asset system and reviewed every quarter. Managers approve requests related to the staff network within 15 working days. Do not share screenshots of the staff network that show account names or internal addresses. Most problems with the staff network are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to the staff network within 15 working days. Do not share screenshots of the staff network that show account names or internal addresses. The service desk can help with the staff network between 08:00 and 19:00 KST on working days. If the staff network does not work after 6 minutes, raise a ticket with category 'wifi' and include the error text."
+ },
+ {
+  "id": "KB-1042#2",
+  "article": "KB-1042",
+  "title": "Wi-Fi at Hanbit sites",
+  "text": "Wi-Fi at Hanbit sites: the guest network. This article explains the guest network for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to the guest network are recorded in the asset system and reviewed every quarter. The service desk can help with the guest network between 08:00 and 19:00 KST on working days. Most problems with the guest network are fixed by signing out, waiting a minute, and signing in again. The service desk can help with the guest network between 08:00 and 19:00 KST on working days. Changes to the guest network are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the wifi kiosk instead of calling. Open the wifi settings and make sure the guest network is enabled before you continue. Do not share screenshots of the guest network that show account names or internal addresses. Do not share screenshots of the guest network that show account names or internal addresses. If the guest network does not work after 19 minutes, raise a ticket with category 'wifi' and include the error text."
+ },
+ {
+  "id": "KB-1042#3",
+  "article": "KB-1042",
+  "title": "Wi-Fi at Hanbit sites",
+  "text": "Wi-Fi at Hanbit sites: 802.1X certificates. This article explains 802.1X certificates for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with 802.1X certificates are fixed by signing out, waiting a minute, and signing in again. The service desk can help with 802.1X certificates between 08:00 and 19:00 KST on working days. Most problems with 802.1X certificates are fixed by signing out, waiting a minute, and signing in again. The service desk can help with 802.1X certificates between 08:00 and 19:00 KST on working days. Managers approve requests related to 802.1X certificates within 11 working days. Confirm the wifi settings and make sure 802.1X certificates is enabled before you continue. Managers approve requests related to 802.1X certificates within 15 working days. If 802.1X certificates does not work after 21 minutes, raise a ticket with category 'wifi' and include the error text."
+ },
+ {
+  "id": "KB-1042#4",
+  "article": "KB-1042",
+  "title": "Wi-Fi at Hanbit sites",
+  "text": "Wi-Fi at Hanbit sites: warehouse access points. This article explains warehouse access points for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with warehouse access points are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to warehouse access points within 4 working days. The service desk can help with warehouse access points between 08:00 and 19:00 KST on working days. Do not share screenshots of warehouse access points that show account names or internal addresses. Changes to warehouse access points are recorded in the asset system and reviewed every quarter. The service desk can help with warehouse access points between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the wifi kiosk instead of calling. The service desk can help with warehouse access points between 08:00 and 19:00 KST on working days. Managers approve requests related to warehouse access points within 26 working days."
+ },
+ {
+  "id": "KB-1049#1",
+  "article": "KB-1049",
+  "title": "Requesting software",
+  "text": "Requesting software: the software catalogue. This article explains the software catalogue for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Verify the software settings and make sure the software catalogue is enabled before you continue. Managers approve requests related to the software catalogue within 18 working days. Most problems with the software catalogue are fixed by signing out, waiting a minute, and signing in again. Changes to the software catalogue are recorded in the asset system and reviewed every quarter. Managers approve requests related to the software catalogue within 22 working days. Managers approve requests related to the software catalogue within 15 working days. Changes to the software catalogue are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the software kiosk instead of calling. Contact the software settings and make sure the software catalogue is enabled before you continue."
+ },
+ {
+  "id": "KB-1049#2",
+  "article": "KB-1049",
+  "title": "Requesting software",
+  "text": "Requesting software: licence approval. This article explains licence approval for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to licence approval are recorded in the asset system and reviewed every quarter. Do not share screenshots of licence approval that show account names or internal addresses. Most problems with licence approval are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to licence approval within 24 working days. The service desk can help with licence approval between 08:00 and 19:00 KST on working days. Managers approve requests related to licence approval within 2 working days. The service desk can help with licence approval between 08:00 and 19:00 KST on working days. Most problems with licence approval are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the software kiosk instead of calling. Warehouse staff on night shifts should use the software kiosk instead of calling."
+ },
+ {
+  "id": "KB-1049#3",
+  "article": "KB-1049",
+  "title": "Requesting software",
+  "text": "Requesting software: admin rights. This article explains admin rights for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If admin rights does not work after 8 minutes, raise a ticket with category 'software' and include the error text. Most problems with admin rights are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the software kiosk instead of calling. Confirm the software settings and make sure admin rights is enabled before you continue. Warehouse staff on night shifts should use the software kiosk instead of calling. Most problems with admin rights are fixed by signing out, waiting a minute, and signing in again. Most problems with admin rights are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the software kiosk instead of calling. Managers approve requests related to admin rights within 21 working days."
+ },
+ {
+  "id": "KB-1049#4",
+  "article": "KB-1049",
+  "title": "Requesting software",
+  "text": "Requesting software: unapproved tools. This article explains unapproved tools for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Restart the software settings and make sure unapproved tools is enabled before you continue. The service desk can help with unapproved tools between 08:00 and 19:00 KST on working days. The service desk can help with unapproved tools between 08:00 and 19:00 KST on working days. Most problems with unapproved tools are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of unapproved tools that show account names or internal addresses. If unapproved tools does not work after 4 minutes, raise a ticket with category 'software' and include the error text. If unapproved tools does not work after 21 minutes, raise a ticket with category 'software' and include the error text."
+ },
+ {
+  "id": "KB-1056#1",
+  "article": "KB-1056",
+  "title": "Reporting phishing",
+  "text": "Reporting phishing: the report button. This article explains the report button for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to the report button within 7 working days. Warehouse staff on night shifts should use the phishing kiosk instead of calling. Managers approve requests related to the report button within 24 working days. If the report button does not work after 27 minutes, raise a ticket with category 'phishing' and include the error text. If the report button does not work after 19 minutes, raise a ticket with category 'phishing' and include the error text. Do not share screenshots of the report button that show account names or internal addresses. If the report button does not work after 16 minutes, raise a ticket with category 'phishing' and include the error text. Most problems with the report button are fixed by signing out, waiting a minute, and signing in again. Restart the phishing settings and make sure the report button is enabled before you continue."
+ },
+ {
+  "id": "KB-1056#2",
+  "article": "KB-1056",
+  "title": "Reporting phishing",
+  "text": "Reporting phishing: suspicious attachments. This article explains suspicious attachments for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to suspicious attachments are recorded in the asset system and reviewed every quarter. If suspicious attachments does not work after 6 minutes, raise a ticket with category 'phishing' and include the error text. Most problems with suspicious attachments are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to suspicious attachments within 20 working days. The service desk can help with suspicious attachments between 08:00 and 19:00 KST on working days. Confirm the phishing settings and make sure suspicious attachments is enabled before you continue. Most problems with suspicious attachments are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to suspicious attachments within 22 working days."
+ },
+ {
+  "id": "KB-1056#3",
+  "article": "KB-1056",
+  "title": "Reporting phishing",
+  "text": "Reporting phishing: what happens after a report. This article explains what happens after a report for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the phishing kiosk instead of calling. Most problems with what happens after a report are fixed by signing out, waiting a minute, and signing in again. Changes to what happens after a report are recorded in the asset system and reviewed every quarter. Changes to what happens after a report are recorded in the asset system and reviewed every quarter. Managers approve requests related to what happens after a report within 4 working days. Review the phishing settings and make sure what happens after a report is enabled before you continue. The service desk can help with what happens after a report between 08:00 and 19:00 KST on working days. Do not share screenshots of what happens after a report that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1056#4",
+  "article": "KB-1056",
+  "title": "Reporting phishing",
+  "text": "Reporting phishing: simulated campaigns. This article explains simulated campaigns for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Select the phishing settings and make sure simulated campaigns is enabled before you continue. Do not share screenshots of simulated campaigns that show account names or internal addresses. Managers approve requests related to simulated campaigns within 6 working days. Most problems with simulated campaigns are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to simulated campaigns within 18 working days. Most problems with simulated campaigns are fixed by signing out, waiting a minute, and signing in again. If simulated campaigns does not work after 2 minutes, raise a ticket with category 'phishing' and include the error text."
+ },
+ {
+  "id": "KB-1063#1",
+  "article": "KB-1063",
+  "title": "Backups and restores",
+  "text": "Backups and restores: OneDrive versioning. This article explains OneDrive versioning for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the backup kiosk instead of calling. Managers approve requests related to OneDrive versioning within 11 working days. The service desk can help with OneDrive versioning between 08:00 and 19:00 KST on working days. Confirm the backup settings and make sure OneDrive versioning is enabled before you continue. The service desk can help with OneDrive versioning between 08:00 and 19:00 KST on working days. Managers approve requests related to OneDrive versioning within 16 working days. The service desk can help with OneDrive versioning between 08:00 and 19:00 KST on working days. Do not share screenshots of OneDrive versioning that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1063#2",
+  "article": "KB-1063",
+  "title": "Backups and restores",
+  "text": "Backups and restores: restoring a deleted folder. This article explains restoring a deleted folder for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the backup kiosk instead of calling. If restoring a deleted folder does not work after 4 minutes, raise a ticket with category 'backup' and include the error text. The service desk can help with restoring a deleted folder between 08:00 and 19:00 KST on working days. Do not share screenshots of restoring a deleted folder that show account names or internal addresses. Most problems with restoring a deleted folder are fixed by signing out, waiting a minute, and signing in again. Verify the backup settings and make sure restoring a deleted folder is enabled before you continue. Managers approve requests related to restoring a deleted folder within 6 working days. Update the backup settings and make sure restoring a deleted folder is enabled before you continue."
+ },
+ {
+  "id": "KB-1063#3",
+  "article": "KB-1063",
+  "title": "Backups and restores",
+  "text": "Backups and restores: server snapshots. This article explains server snapshots for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with server snapshots between 08:00 and 19:00 KST on working days. The service desk can help with server snapshots between 08:00 and 19:00 KST on working days. Changes to server snapshots are recorded in the asset system and reviewed every quarter. The service desk can help with server snapshots between 08:00 and 19:00 KST on working days. The service desk can help with server snapshots between 08:00 and 19:00 KST on working days. Managers approve requests related to server snapshots within 21 working days. Managers approve requests related to server snapshots within 7 working days. Warehouse staff on night shifts should use the backup kiosk instead of calling. Most problems with server snapshots are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1063#4",
+  "article": "KB-1063",
+  "title": "Backups and restores",
+  "text": "Backups and restores: retention periods. This article explains retention periods for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the backup kiosk instead of calling. The service desk can help with retention periods between 08:00 and 19:00 KST on working days. Changes to retention periods are recorded in the asset system and reviewed every quarter. Submit the backup settings and make sure retention periods is enabled before you continue. If retention periods does not work after 4 minutes, raise a ticket with category 'backup' and include the error text. Changes to retention periods are recorded in the asset system and reviewed every quarter. If retention periods does not work after 16 minutes, raise a ticket with category 'backup' and include the error text. Warehouse staff on night shifts should use the backup kiosk instead of calling. Changes to retention periods are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1070#1",
+  "article": "KB-1070",
+  "title": "Building badge access",
+  "text": "Building badge access: lost badges. This article explains lost badges for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Open the badge settings and make sure lost badges is enabled before you continue. Managers approve requests related to lost badges within 14 working days. Do not share screenshots of lost badges that show account names or internal addresses. Managers approve requests related to lost badges within 22 working days. Managers approve requests related to lost badges within 4 working days. Submit the badge settings and make sure lost badges is enabled before you continue. Managers approve requests related to lost badges within 5 working days. Most problems with lost badges are fixed by signing out, waiting a minute, and signing in again. Changes to lost badges are recorded in the asset system and reviewed every quarter. Most problems with lost badges are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1070#2",
+  "article": "KB-1070",
+  "title": "Building badge access",
+  "text": "Building badge access: visitor badges. This article explains visitor badges for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with visitor badges are fixed by signing out, waiting a minute, and signing in again. If visitor badges does not work after 23 minutes, raise a ticket with category 'badge' and include the error text. The service desk can help with visitor badges between 08:00 and 19:00 KST on working days. Changes to visitor badges are recorded in the asset system and reviewed every quarter. Managers approve requests related to visitor badges within 17 working days. If visitor badges does not work after 25 minutes, raise a ticket with category 'badge' and include the error text. Check the badge settings and make sure visitor badges is enabled before you continue. If visitor badges does not work after 26 minutes, raise a ticket with category 'badge' and include the error text."
+ },
+ {
+  "id": "KB-1070#3",
+  "article": "KB-1070",
+  "title": "Building badge access",
+  "text": "Building badge access: after-hours entry. This article explains after-hours entry for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of after-hours entry that show account names or internal addresses. If after-hours entry does not work after 14 minutes, raise a ticket with category 'badge' and include the error text. Warehouse staff on night shifts should use the badge kiosk instead of calling. Update the badge settings and make sure after-hours entry is enabled before you continue. Managers approve requests related to after-hours entry within 25 working days. If after-hours entry does not work after 9 minutes, raise a ticket with category 'badge' and include the error text. Warehouse staff on night shifts should use the badge kiosk instead of calling. Managers approve requests related to after-hours entry within 15 working days. The service desk can help with after-hours entry between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1070#4",
+  "article": "KB-1070",
+  "title": "Building badge access",
+  "text": "Building badge access: warehouse zones. This article explains warehouse zones for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Check the badge settings and make sure warehouse zones is enabled before you continue. Changes to warehouse zones are recorded in the asset system and reviewed every quarter. Open the badge settings and make sure warehouse zones is enabled before you continue. If warehouse zones does not work after 14 minutes, raise a ticket with category 'badge' and include the error text. If warehouse zones does not work after 15 minutes, raise a ticket with category 'badge' and include the error text. Do not share screenshots of warehouse zones that show account names or internal addresses. Do not share screenshots of warehouse zones that show account names or internal addresses. If warehouse zones does not work after 27 minutes, raise a ticket with category 'badge' and include the error text. Changes to warehouse zones are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1077#1",
+  "article": "KB-1077",
+  "title": "Shared drives and folders",
+  "text": "Shared drives and folders: requesting access. This article explains requesting access for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If requesting access does not work after 27 minutes, raise a ticket with category 'drive' and include the error text. If requesting access does not work after 17 minutes, raise a ticket with category 'drive' and include the error text. Do not share screenshots of requesting access that show account names or internal addresses. If requesting access does not work after 16 minutes, raise a ticket with category 'drive' and include the error text. Do not share screenshots of requesting access that show account names or internal addresses. Managers approve requests related to requesting access within 8 working days. Do not share screenshots of requesting access that show account names or internal addresses. The service desk can help with requesting access between 08:00 and 19:00 KST on working days. If requesting access does not work after 13 minutes, raise a ticket with category 'drive' and include the error text."
+ },
+ {
+  "id": "KB-1077#2",
+  "article": "KB-1077",
+  "title": "Shared drives and folders",
+  "text": "Shared drives and folders: folder owners. This article explains folder owners for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If folder owners does not work after 3 minutes, raise a ticket with category 'drive' and include the error text. Do not share screenshots of folder owners that show account names or internal addresses. If folder owners does not work after 9 minutes, raise a ticket with category 'drive' and include the error text. Do not share screenshots of folder owners that show account names or internal addresses. Most problems with folder owners are fixed by signing out, waiting a minute, and signing in again. If folder owners does not work after 24 minutes, raise a ticket with category 'drive' and include the error text. Most problems with folder owners are fixed by signing out, waiting a minute, and signing in again. Changes to folder owners are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1077#3",
+  "article": "KB-1077",
+  "title": "Shared drives and folders",
+  "text": "Shared drives and folders: external sharing. This article explains external sharing for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Verify the drive settings and make sure external sharing is enabled before you continue. Most problems with external sharing are fixed by signing out, waiting a minute, and signing in again. Restart the drive settings and make sure external sharing is enabled before you continue. Do not share screenshots of external sharing that show account names or internal addresses. If external sharing does not work after 12 minutes, raise a ticket with category 'drive' and include the error text. Submit the drive settings and make sure external sharing is enabled before you continue. Warehouse staff on night shifts should use the drive kiosk instead of calling. Most problems with external sharing are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to external sharing within 29 working days. Contact the drive settings and make sure external sharing is enabled before you continue."
+ },
+ {
+  "id": "KB-1077#4",
+  "article": "KB-1077",
+  "title": "Shared drives and folders",
+  "text": "Shared drives and folders: storage quotas. This article explains storage quotas for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with storage quotas between 08:00 and 19:00 KST on working days. If storage quotas does not work after 28 minutes, raise a ticket with category 'drive' and include the error text. The service desk can help with storage quotas between 08:00 and 19:00 KST on working days. Contact the drive settings and make sure storage quotas is enabled before you continue. Warehouse staff on night shifts should use the drive kiosk instead of calling. Do not share screenshots of storage quotas that show account names or internal addresses. Most problems with storage quotas are fixed by signing out, waiting a minute, and signing in again. Most problems with storage quotas are fixed by signing out, waiting a minute, and signing in again. The service desk can help with storage quotas between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1084#1",
+  "article": "KB-1084",
+  "title": "Video meetings",
+  "text": "Video meetings: room systems. This article explains room systems for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to room systems within 10 working days. Select the meeting settings and make sure room systems is enabled before you continue. Managers approve requests related to room systems within 15 working days. The service desk can help with room systems between 08:00 and 19:00 KST on working days. Most problems with room systems are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to room systems within 2 working days. If room systems does not work after 13 minutes, raise a ticket with category 'meeting' and include the error text. Warehouse staff on night shifts should use the meeting kiosk instead of calling. Most problems with room systems are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1084#2",
+  "article": "KB-1084",
+  "title": "Video meetings",
+  "text": "Video meetings: recording rules. This article explains recording rules for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the meeting kiosk instead of calling. Managers approve requests related to recording rules within 11 working days. If recording rules does not work after 4 minutes, raise a ticket with category 'meeting' and include the error text. Managers approve requests related to recording rules within 19 working days. Most problems with recording rules are fixed by signing out, waiting a minute, and signing in again. If recording rules does not work after 16 minutes, raise a ticket with category 'meeting' and include the error text. Do not share screenshots of recording rules that show account names or internal addresses. Submit the meeting settings and make sure recording rules is enabled before you continue."
+ },
+ {
+  "id": "KB-1084#3",
+  "article": "KB-1084",
+  "title": "Video meetings",
+  "text": "Video meetings: external guests. This article explains external guests for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to external guests within 24 working days. Changes to external guests are recorded in the asset system and reviewed every quarter. The service desk can help with external guests between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the meeting kiosk instead of calling. Warehouse staff on night shifts should use the meeting kiosk instead of calling. Select the meeting settings and make sure external guests is enabled before you continue. If external guests does not work after 16 minutes, raise a ticket with category 'meeting' and include the error text. Warehouse staff on night shifts should use the meeting kiosk instead of calling. The service desk can help with external guests between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1084#4",
+  "article": "KB-1084",
+  "title": "Video meetings",
+  "text": "Video meetings: bandwidth problems. This article explains bandwidth problems for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Submit the meeting settings and make sure bandwidth problems is enabled before you continue. Update the meeting settings and make sure bandwidth problems is enabled before you continue. Open the meeting settings and make sure bandwidth problems is enabled before you continue. Changes to bandwidth problems are recorded in the asset system and reviewed every quarter. Most problems with bandwidth problems are fixed by signing out, waiting a minute, and signing in again. Changes to bandwidth problems are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the meeting kiosk instead of calling. Changes to bandwidth problems are recorded in the asset system and reviewed every quarter. If bandwidth problems does not work after 8 minutes, raise a ticket with category 'meeting' and include the error text."
+ },
+ {
+  "id": "KB-1091#1",
+  "article": "KB-1091",
+  "title": "Handheld scanners",
+  "text": "Handheld scanners: charging cradles. This article explains charging cradles for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Check the scanner settings and make sure charging cradles is enabled before you continue. Review the scanner settings and make sure charging cradles is enabled before you continue. Changes to charging cradles are recorded in the asset system and reviewed every quarter. Most problems with charging cradles are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the scanner kiosk instead of calling. If charging cradles does not work after 16 minutes, raise a ticket with category 'scanner' and include the error text. Managers approve requests related to charging cradles within 4 working days. If charging cradles does not work after 2 minutes, raise a ticket with category 'scanner' and include the error text."
+ },
+ {
+  "id": "KB-1091#2",
+  "article": "KB-1091",
+  "title": "Handheld scanners",
+  "text": "Handheld scanners: app updates. This article explains app updates for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to app updates are recorded in the asset system and reviewed every quarter. Most problems with app updates are fixed by signing out, waiting a minute, and signing in again. Most problems with app updates are fixed by signing out, waiting a minute, and signing in again. The service desk can help with app updates between 08:00 and 19:00 KST on working days. Most problems with app updates are fixed by signing out, waiting a minute, and signing in again. Changes to app updates are recorded in the asset system and reviewed every quarter. If app updates does not work after 6 minutes, raise a ticket with category 'scanner' and include the error text."
+ },
+ {
+  "id": "KB-1091#3",
+  "article": "KB-1091",
+  "title": "Handheld scanners",
+  "text": "Handheld scanners: replacing a broken unit. This article explains replacing a broken unit for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If replacing a broken unit does not work after 29 minutes, raise a ticket with category 'scanner' and include the error text. The service desk can help with replacing a broken unit between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the scanner kiosk instead of calling. Confirm the scanner settings and make sure replacing a broken unit is enabled before you continue. Open the scanner settings and make sure replacing a broken unit is enabled before you continue. If replacing a broken unit does not work after 23 minutes, raise a ticket with category 'scanner' and include the error text. Managers approve requests related to replacing a broken unit within 25 working days. Most problems with replacing a broken unit are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1091#4",
+  "article": "KB-1091",
+  "title": "Handheld scanners",
+  "text": "Handheld scanners: barcode errors. This article explains barcode errors for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of barcode errors that show account names or internal addresses. The service desk can help with barcode errors between 08:00 and 19:00 KST on working days. Changes to barcode errors are recorded in the asset system and reviewed every quarter. Most problems with barcode errors are fixed by signing out, waiting a minute, and signing in again. Select the scanner settings and make sure barcode errors is enabled before you continue. Most problems with barcode errors are fixed by signing out, waiting a minute, and signing in again. Most problems with barcode errors are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of barcode errors that show account names or internal addresses. Most problems with barcode errors are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1098#1",
+  "article": "KB-1098",
+  "title": "Expense system access",
+  "text": "Expense system access: first login. This article explains first login for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If first login does not work after 25 minutes, raise a ticket with category 'expense' and include the error text. If first login does not work after 26 minutes, raise a ticket with category 'expense' and include the error text. Most problems with first login are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the expense kiosk instead of calling. Most problems with first login are fixed by signing out, waiting a minute, and signing in again. Most problems with first login are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to first login within 3 working days. The service desk can help with first login between 08:00 and 19:00 KST on working days. Most problems with first login are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1098#2",
+  "article": "KB-1098",
+  "title": "Expense system access",
+  "text": "Expense system access: approver changes. This article explains approver changes for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of approver changes that show account names or internal addresses. The service desk can help with approver changes between 08:00 and 19:00 KST on working days. Contact the expense settings and make sure approver changes is enabled before you continue. The service desk can help with approver changes between 08:00 and 19:00 KST on working days. Contact the expense settings and make sure approver changes is enabled before you continue. Warehouse staff on night shifts should use the expense kiosk instead of calling. The service desk can help with approver changes between 08:00 and 19:00 KST on working days. Changes to approver changes are recorded in the asset system and reviewed every quarter. The service desk can help with approver changes between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1098#3",
+  "article": "KB-1098",
+  "title": "Expense system access",
+  "text": "Expense system access: receipt upload. This article explains receipt upload for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to receipt upload within 3 working days. Changes to receipt upload are recorded in the asset system and reviewed every quarter. Select the expense settings and make sure receipt upload is enabled before you continue. Changes to receipt upload are recorded in the asset system and reviewed every quarter. Do not share screenshots of receipt upload that show account names or internal addresses. If receipt upload does not work after 2 minutes, raise a ticket with category 'expense' and include the error text. Warehouse staff on night shifts should use the expense kiosk instead of calling. Managers approve requests related to receipt upload within 21 working days."
+ },
+ {
+  "id": "KB-1098#4",
+  "article": "KB-1098",
+  "title": "Expense system access",
+  "text": "Expense system access: currency settings. This article explains currency settings for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to currency settings within 12 working days. Changes to currency settings are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the expense kiosk instead of calling. Managers approve requests related to currency settings within 10 working days. Review the expense settings and make sure currency settings is enabled before you continue. Confirm the expense settings and make sure currency settings is enabled before you continue. Warehouse staff on night shifts should use the expense kiosk instead of calling. Warehouse staff on night shifts should use the expense kiosk instead of calling. The service desk can help with currency settings between 08:00 and 19:00 KST on working days. The service desk can help with currency settings between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1105#1",
+  "article": "KB-1105",
+  "title": "New starter accounts",
+  "text": "New starter accounts: account creation. This article explains account creation for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the onboarding kiosk instead of calling. If account creation does not work after 3 minutes, raise a ticket with category 'onboarding' and include the error text. Most problems with account creation are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of account creation that show account names or internal addresses. Verify the onboarding settings and make sure account creation is enabled before you continue. Submit the onboarding settings and make sure account creation is enabled before you continue. Warehouse staff on night shifts should use the onboarding kiosk instead of calling. Warehouse staff on night shifts should use the onboarding kiosk instead of calling."
+ },
+ {
+  "id": "KB-1105#2",
+  "article": "KB-1105",
+  "title": "New starter accounts",
+  "text": "New starter accounts: first-day checklist. This article explains first-day checklist for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Check the onboarding settings and make sure first-day checklist is enabled before you continue. Most problems with first-day checklist are fixed by signing out, waiting a minute, and signing in again. The service desk can help with first-day checklist between 08:00 and 19:00 KST on working days. Changes to first-day checklist are recorded in the asset system and reviewed every quarter. If first-day checklist does not work after 22 minutes, raise a ticket with category 'onboarding' and include the error text. Managers approve requests related to first-day checklist within 12 working days. Warehouse staff on night shifts should use the onboarding kiosk instead of calling."
+ },
+ {
+  "id": "KB-1105#3",
+  "article": "KB-1105",
+  "title": "New starter accounts",
+  "text": "New starter accounts: equipment pickup. This article explains equipment pickup for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to equipment pickup are recorded in the asset system and reviewed every quarter. Managers approve requests related to equipment pickup within 8 working days. Managers approve requests related to equipment pickup within 14 working days. Do not share screenshots of equipment pickup that show account names or internal addresses. Most problems with equipment pickup are fixed by signing out, waiting a minute, and signing in again. Changes to equipment pickup are recorded in the asset system and reviewed every quarter. Most problems with equipment pickup are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to equipment pickup within 12 working days. The service desk can help with equipment pickup between 08:00 and 19:00 KST on working days. The service desk can help with equipment pickup between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1105#4",
+  "article": "KB-1105",
+  "title": "New starter accounts",
+  "text": "New starter accounts: mandatory training. This article explains mandatory training for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to mandatory training are recorded in the asset system and reviewed every quarter. Most problems with mandatory training are fixed by signing out, waiting a minute, and signing in again. Most problems with mandatory training are fixed by signing out, waiting a minute, and signing in again. Confirm the onboarding settings and make sure mandatory training is enabled before you continue. Submit the onboarding settings and make sure mandatory training is enabled before you continue. Open the onboarding settings and make sure mandatory training is enabled before you continue. Update the onboarding settings and make sure mandatory training is enabled before you continue. Warehouse staff on night shifts should use the onboarding kiosk instead of calling. Confirm the onboarding settings and make sure mandatory training is enabled before you continue."
+ },
+ {
+  "id": "KB-1112#1",
+  "article": "KB-1112",
+  "title": "Leavers and account removal",
+  "text": "Leavers and account removal: account disablement. This article explains account disablement for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If account disablement does not work after 11 minutes, raise a ticket with category 'offboarding' and include the error text. Most problems with account disablement are fixed by signing out, waiting a minute, and signing in again. Changes to account disablement are recorded in the asset system and reviewed every quarter. Changes to account disablement are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the offboarding kiosk instead of calling. Do not share screenshots of account disablement that show account names or internal addresses. If account disablement does not work after 26 minutes, raise a ticket with category 'offboarding' and include the error text. Most problems with account disablement are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to account disablement within 17 working days."
+ },
+ {
+  "id": "KB-1112#2",
+  "article": "KB-1112",
+  "title": "Leavers and account removal",
+  "text": "Leavers and account removal: mailbox handover. This article explains mailbox handover for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to mailbox handover are recorded in the asset system and reviewed every quarter. Changes to mailbox handover are recorded in the asset system and reviewed every quarter. The service desk can help with mailbox handover between 08:00 and 19:00 KST on working days. The service desk can help with mailbox handover between 08:00 and 19:00 KST on working days. Managers approve requests related to mailbox handover within 17 working days. The service desk can help with mailbox handover between 08:00 and 19:00 KST on working days. Submit the offboarding settings and make sure mailbox handover is enabled before you continue. Warehouse staff on night shifts should use the offboarding kiosk instead of calling. If mailbox handover does not work after 18 minutes, raise a ticket with category 'offboarding' and include the error text."
+ },
+ {
+  "id": "KB-1112#3",
+  "article": "KB-1112",
+  "title": "Leavers and account removal",
+  "text": "Leavers and account removal: device return. This article explains device return for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to device return are recorded in the asset system and reviewed every quarter. The service desk can help with device return between 08:00 and 19:00 KST on working days. The service desk can help with device return between 08:00 and 19:00 KST on working days. If device return does not work after 26 minutes, raise a ticket with category 'offboarding' and include the error text. If device return does not work after 23 minutes, raise a ticket with category 'offboarding' and include the error text. Warehouse staff on night shifts should use the offboarding kiosk instead of calling. Open the offboarding settings and make sure device return is enabled before you continue. Warehouse staff on night shifts should use the offboarding kiosk instead of calling. The service desk can help with device return between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the offboarding kiosk instead of calling."
+ },
+ {
+  "id": "KB-1112#4",
+  "article": "KB-1112",
+  "title": "Leavers and account removal",
+  "text": "Leavers and account removal: access reviews. This article explains access reviews for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to access reviews within 24 working days. If access reviews does not work after 22 minutes, raise a ticket with category 'offboarding' and include the error text. Most problems with access reviews are fixed by signing out, waiting a minute, and signing in again. If access reviews does not work after 7 minutes, raise a ticket with category 'offboarding' and include the error text. Warehouse staff on night shifts should use the offboarding kiosk instead of calling. If access reviews does not work after 11 minutes, raise a ticket with category 'offboarding' and include the error text. Do not share screenshots of access reviews that show account names or internal addresses. Most problems with access reviews are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of access reviews that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1119#1",
+  "article": "KB-1119",
+  "title": "Data classification",
+  "text": "Data classification: public data. This article explains public data for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to public data are recorded in the asset system and reviewed every quarter. Check the classification settings and make sure public data is enabled before you continue. Check the classification settings and make sure public data is enabled before you continue. Do not share screenshots of public data that show account names or internal addresses. Most problems with public data are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of public data that show account names or internal addresses. Warehouse staff on night shifts should use the classification kiosk instead of calling. Managers approve requests related to public data within 20 working days. Warehouse staff on night shifts should use the classification kiosk instead of calling."
+ },
+ {
+  "id": "KB-1119#2",
+  "article": "KB-1119",
+  "title": "Data classification",
+  "text": "Data classification: internal data. This article explains internal data for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to internal data within 25 working days. The service desk can help with internal data between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the classification kiosk instead of calling. Changes to internal data are recorded in the asset system and reviewed every quarter. If internal data does not work after 8 minutes, raise a ticket with category 'classification' and include the error text. Most problems with internal data are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the classification kiosk instead of calling. Managers approve requests related to internal data within 22 working days. Do not share screenshots of internal data that show account names or internal addresses. Contact the classification settings and make sure internal data is enabled before you continue. If internal data does not work after 27 minutes, raise a ticket with category 'classification' and include the error text."
+ },
+ {
+  "id": "KB-1119#3",
+  "article": "KB-1119",
+  "title": "Data classification",
+  "text": "Data classification: confidential data. This article explains confidential data for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the classification kiosk instead of calling. Select the classification settings and make sure confidential data is enabled before you continue. If confidential data does not work after 12 minutes, raise a ticket with category 'classification' and include the error text. Do not share screenshots of confidential data that show account names or internal addresses. The service desk can help with confidential data between 08:00 and 19:00 KST on working days. If confidential data does not work after 12 minutes, raise a ticket with category 'classification' and include the error text. The service desk can help with confidential data between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1119#4",
+  "article": "KB-1119",
+  "title": "Data classification",
+  "text": "Data classification: labelling documents. This article explains labelling documents for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with labelling documents between 08:00 and 19:00 KST on working days. Changes to labelling documents are recorded in the asset system and reviewed every quarter. Open the classification settings and make sure labelling documents is enabled before you continue. Contact the classification settings and make sure labelling documents is enabled before you continue. Changes to labelling documents are recorded in the asset system and reviewed every quarter. Submit the classification settings and make sure labelling documents is enabled before you continue. Managers approve requests related to labelling documents within 6 working days. Most problems with labelling documents are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the classification kiosk instead of calling. If labelling documents does not work after 29 minutes, raise a ticket with category 'classification' and include the error text."
+ },
+ {
+  "id": "KB-1126#1",
+  "article": "KB-1126",
+  "title": "USB and removable media",
+  "text": "USB and removable media: encrypted drives. This article explains encrypted drives for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of encrypted drives that show account names or internal addresses. Managers approve requests related to encrypted drives within 18 working days. If encrypted drives does not work after 24 minutes, raise a ticket with category 'usb' and include the error text. The service desk can help with encrypted drives between 08:00 and 19:00 KST on working days. If encrypted drives does not work after 16 minutes, raise a ticket with category 'usb' and include the error text. If encrypted drives does not work after 9 minutes, raise a ticket with category 'usb' and include the error text. If encrypted drives does not work after 9 minutes, raise a ticket with category 'usb' and include the error text. Do not share screenshots of encrypted drives that show account names or internal addresses. The service desk can help with encrypted drives between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1126#2",
+  "article": "KB-1126",
+  "title": "USB and removable media",
+  "text": "USB and removable media: blocked devices. This article explains blocked devices for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to blocked devices are recorded in the asset system and reviewed every quarter. Most problems with blocked devices are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of blocked devices that show account names or internal addresses. The service desk can help with blocked devices between 08:00 and 19:00 KST on working days. Managers approve requests related to blocked devices within 6 working days. Managers approve requests related to blocked devices within 26 working days. Managers approve requests related to blocked devices within 24 working days. Managers approve requests related to blocked devices within 26 working days. Warehouse staff on night shifts should use the usb kiosk instead of calling."
+ },
+ {
+  "id": "KB-1126#3",
+  "article": "KB-1126",
+  "title": "USB and removable media",
+  "text": "USB and removable media: exceptions. This article explains exceptions for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with exceptions are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the usb kiosk instead of calling. Managers approve requests related to exceptions within 7 working days. Changes to exceptions are recorded in the asset system and reviewed every quarter. The service desk can help with exceptions between 08:00 and 19:00 KST on working days. Check the usb settings and make sure exceptions is enabled before you continue. Managers approve requests related to exceptions within 16 working days. If exceptions does not work after 14 minutes, raise a ticket with category 'usb' and include the error text. Changes to exceptions are recorded in the asset system and reviewed every quarter. Managers approve requests related to exceptions within 25 working days. Open the usb settings and make sure exceptions is enabled before you continue."
+ },
+ {
+  "id": "KB-1126#4",
+  "article": "KB-1126",
+  "title": "USB and removable media",
+  "text": "USB and removable media: lost media. This article explains lost media for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the usb kiosk instead of calling. Warehouse staff on night shifts should use the usb kiosk instead of calling. If lost media does not work after 23 minutes, raise a ticket with category 'usb' and include the error text. The service desk can help with lost media between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the usb kiosk instead of calling. Do not share screenshots of lost media that show account names or internal addresses. Most problems with lost media are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to lost media within 13 working days. Managers approve requests related to lost media within 2 working days. If lost media does not work after 12 minutes, raise a ticket with category 'usb' and include the error text."
+ },
+ {
+  "id": "KB-1133#1",
+  "article": "KB-1133",
+  "title": "Remote desktop to depot PCs",
+  "text": "Remote desktop to depot PCs: jump hosts. This article explains jump hosts for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to jump hosts are recorded in the asset system and reviewed every quarter. Review the rdp settings and make sure jump hosts is enabled before you continue. Do not share screenshots of jump hosts that show account names or internal addresses. Most problems with jump hosts are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to jump hosts within 6 working days. Do not share screenshots of jump hosts that show account names or internal addresses. Changes to jump hosts are recorded in the asset system and reviewed every quarter. Most problems with jump hosts are fixed by signing out, waiting a minute, and signing in again. The service desk can help with jump hosts between 08:00 and 19:00 KST on working days. If jump hosts does not work after 17 minutes, raise a ticket with category 'rdp' and include the error text."
+ },
+ {
+  "id": "KB-1133#2",
+  "article": "KB-1133",
+  "title": "Remote desktop to depot PCs",
+  "text": "Remote desktop to depot PCs: session timeouts. This article explains session timeouts for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with session timeouts between 08:00 and 19:00 KST on working days. Most problems with session timeouts are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of session timeouts that show account names or internal addresses. Most problems with session timeouts are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of session timeouts that show account names or internal addresses. Select the rdp settings and make sure session timeouts is enabled before you continue. Warehouse staff on night shifts should use the rdp kiosk instead of calling. Changes to session timeouts are recorded in the asset system and reviewed every quarter. If session timeouts does not work after 27 minutes, raise a ticket with category 'rdp' and include the error text."
+ },
+ {
+  "id": "KB-1133#3",
+  "article": "KB-1133",
+  "title": "Remote desktop to depot PCs",
+  "text": "Remote desktop to depot PCs: approved users. This article explains approved users for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to approved users are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the rdp kiosk instead of calling. Changes to approved users are recorded in the asset system and reviewed every quarter. Contact the rdp settings and make sure approved users is enabled before you continue. The service desk can help with approved users between 08:00 and 19:00 KST on working days. Restart the rdp settings and make sure approved users is enabled before you continue. The service desk can help with approved users between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the rdp kiosk instead of calling. Managers approve requests related to approved users within 14 working days."
+ },
+ {
+  "id": "KB-1133#4",
+  "article": "KB-1133",
+  "title": "Remote desktop to depot PCs",
+  "text": "Remote desktop to depot PCs: screen sharing. This article explains screen sharing for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of screen sharing that show account names or internal addresses. Changes to screen sharing are recorded in the asset system and reviewed every quarter. Most problems with screen sharing are fixed by signing out, waiting a minute, and signing in again. If screen sharing does not work after 12 minutes, raise a ticket with category 'rdp' and include the error text. Do not share screenshots of screen sharing that show account names or internal addresses. Do not share screenshots of screen sharing that show account names or internal addresses. Changes to screen sharing are recorded in the asset system and reviewed every quarter. Open the rdp settings and make sure screen sharing is enabled before you continue."
+ },
+ {
+  "id": "KB-1140#1",
+  "article": "KB-1140",
+  "title": "Operating system updates",
+  "text": "Operating system updates: patch Tuesday. This article explains patch Tuesday for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Restart the updates settings and make sure patch Tuesday is enabled before you continue. If patch Tuesday does not work after 28 minutes, raise a ticket with category 'updates' and include the error text. Warehouse staff on night shifts should use the updates kiosk instead of calling. Most problems with patch Tuesday are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of patch Tuesday that show account names or internal addresses. The service desk can help with patch Tuesday between 08:00 and 19:00 KST on working days. Most problems with patch Tuesday are fixed by signing out, waiting a minute, and signing in again. Most problems with patch Tuesday are fixed by signing out, waiting a minute, and signing in again. Confirm the updates settings and make sure patch Tuesday is enabled before you continue."
+ },
+ {
+  "id": "KB-1140#2",
+  "article": "KB-1140",
+  "title": "Operating system updates",
+  "text": "Operating system updates: deferral windows. This article explains deferral windows for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of deferral windows that show account names or internal addresses. Do not share screenshots of deferral windows that show account names or internal addresses. If deferral windows does not work after 16 minutes, raise a ticket with category 'updates' and include the error text. Managers approve requests related to deferral windows within 11 working days. Warehouse staff on night shifts should use the updates kiosk instead of calling. The service desk can help with deferral windows between 08:00 and 19:00 KST on working days. Select the updates settings and make sure deferral windows is enabled before you continue. Warehouse staff on night shifts should use the updates kiosk instead of calling. The service desk can help with deferral windows between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1140#3",
+  "article": "KB-1140",
+  "title": "Operating system updates",
+  "text": "Operating system updates: forced restarts. This article explains forced restarts for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to forced restarts are recorded in the asset system and reviewed every quarter. Verify the updates settings and make sure forced restarts is enabled before you continue. Warehouse staff on night shifts should use the updates kiosk instead of calling. Changes to forced restarts are recorded in the asset system and reviewed every quarter. Changes to forced restarts are recorded in the asset system and reviewed every quarter. Do not share screenshots of forced restarts that show account names or internal addresses. Do not share screenshots of forced restarts that show account names or internal addresses. Select the updates settings and make sure forced restarts is enabled before you continue. Do not share screenshots of forced restarts that show account names or internal addresses. If forced restarts does not work after 22 minutes, raise a ticket with category 'updates' and include the error text. Warehouse staff on night shifts should use the updates kiosk instead of calling."
+ },
+ {
+  "id": "KB-1140#4",
+  "article": "KB-1140",
+  "title": "Operating system updates",
+  "text": "Operating system updates: update failures. This article explains update failures for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with update failures between 08:00 and 19:00 KST on working days. Verify the updates settings and make sure update failures is enabled before you continue. Contact the updates settings and make sure update failures is enabled before you continue. Update the updates settings and make sure update failures is enabled before you continue. The service desk can help with update failures between 08:00 and 19:00 KST on working days. Do not share screenshots of update failures that show account names or internal addresses. Most problems with update failures are fixed by signing out, waiting a minute, and signing in again. If update failures does not work after 24 minutes, raise a ticket with category 'updates' and include the error text. Open the updates settings and make sure update failures is enabled before you continue."
+ },
+ {
+  "id": "KB-1147#1",
+  "article": "KB-1147",
+  "title": "Browser and extensions",
+  "text": "Browser and extensions: supported browsers. This article explains supported browsers for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of supported browsers that show account names or internal addresses. Managers approve requests related to supported browsers within 4 working days. Submit the browser settings and make sure supported browsers is enabled before you continue. If supported browsers does not work after 15 minutes, raise a ticket with category 'browser' and include the error text. Changes to supported browsers are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the browser kiosk instead of calling. Warehouse staff on night shifts should use the browser kiosk instead of calling. If supported browsers does not work after 10 minutes, raise a ticket with category 'browser' and include the error text."
+ },
+ {
+  "id": "KB-1147#2",
+  "article": "KB-1147",
+  "title": "Browser and extensions",
+  "text": "Browser and extensions: extension allow-list. This article explains extension allow-list for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with extension allow-list are fixed by signing out, waiting a minute, and signing in again. Most problems with extension allow-list are fixed by signing out, waiting a minute, and signing in again. The service desk can help with extension allow-list between 08:00 and 19:00 KST on working days. Managers approve requests related to extension allow-list within 25 working days. Verify the browser settings and make sure extension allow-list is enabled before you continue. Verify the browser settings and make sure extension allow-list is enabled before you continue. Warehouse staff on night shifts should use the browser kiosk instead of calling. Managers approve requests related to extension allow-list within 3 working days."
+ },
+ {
+  "id": "KB-1147#3",
+  "article": "KB-1147",
+  "title": "Browser and extensions",
+  "text": "Browser and extensions: saved passwords. This article explains saved passwords for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with saved passwords between 08:00 and 19:00 KST on working days. Changes to saved passwords are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the browser kiosk instead of calling. Managers approve requests related to saved passwords within 11 working days. Restart the browser settings and make sure saved passwords is enabled before you continue. Check the browser settings and make sure saved passwords is enabled before you continue. Changes to saved passwords are recorded in the asset system and reviewed every quarter. Managers approve requests related to saved passwords within 6 working days. If saved passwords does not work after 19 minutes, raise a ticket with category 'browser' and include the error text. Changes to saved passwords are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1147#4",
+  "article": "KB-1147",
+  "title": "Browser and extensions",
+  "text": "Browser and extensions: clearing cache. This article explains clearing cache for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Restart the browser settings and make sure clearing cache is enabled before you continue. Most problems with clearing cache are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the browser kiosk instead of calling. If clearing cache does not work after 12 minutes, raise a ticket with category 'browser' and include the error text. Changes to clearing cache are recorded in the asset system and reviewed every quarter. Confirm the browser settings and make sure clearing cache is enabled before you continue. Do not share screenshots of clearing cache that show account names or internal addresses. Update the browser settings and make sure clearing cache is enabled before you continue. Do not share screenshots of clearing cache that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1154#1",
+  "article": "KB-1154",
+  "title": "Telephony and softphones",
+  "text": "Telephony and softphones: the softphone app. This article explains the softphone app for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of the softphone app that show account names or internal addresses. Most problems with the softphone app are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to the softphone app within 4 working days. Do not share screenshots of the softphone app that show account names or internal addresses. Managers approve requests related to the softphone app within 13 working days. The service desk can help with the softphone app between 08:00 and 19:00 KST on working days. Managers approve requests related to the softphone app within 4 working days. Review the phone settings and make sure the softphone app is enabled before you continue. Contact the phone settings and make sure the softphone app is enabled before you continue. The service desk can help with the softphone app between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1154#2",
+  "article": "KB-1154",
+  "title": "Telephony and softphones",
+  "text": "Telephony and softphones: voicemail PINs. This article explains voicemail PINs for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with voicemail PINs between 08:00 and 19:00 KST on working days. Changes to voicemail PINs are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the phone kiosk instead of calling. If voicemail PINs does not work after 5 minutes, raise a ticket with category 'phone' and include the error text. Do not share screenshots of voicemail PINs that show account names or internal addresses. Warehouse staff on night shifts should use the phone kiosk instead of calling. If voicemail PINs does not work after 20 minutes, raise a ticket with category 'phone' and include the error text. If voicemail PINs does not work after 13 minutes, raise a ticket with category 'phone' and include the error text."
+ },
+ {
+  "id": "KB-1154#3",
+  "article": "KB-1154",
+  "title": "Telephony and softphones",
+  "text": "Telephony and softphones: call forwarding. This article explains call forwarding for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with call forwarding between 08:00 and 19:00 KST on working days. Do not share screenshots of call forwarding that show account names or internal addresses. If call forwarding does not work after 5 minutes, raise a ticket with category 'phone' and include the error text. Do not share screenshots of call forwarding that show account names or internal addresses. Most problems with call forwarding are fixed by signing out, waiting a minute, and signing in again. Confirm the phone settings and make sure call forwarding is enabled before you continue. The service desk can help with call forwarding between 08:00 and 19:00 KST on working days. The service desk can help with call forwarding between 08:00 and 19:00 KST on working days. Confirm the phone settings and make sure call forwarding is enabled before you continue."
+ },
+ {
+  "id": "KB-1154#4",
+  "article": "KB-1154",
+  "title": "Telephony and softphones",
+  "text": "Telephony and softphones: headsets. This article explains headsets for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with headsets between 08:00 and 19:00 KST on working days. If headsets does not work after 10 minutes, raise a ticket with category 'phone' and include the error text. Do not share screenshots of headsets that show account names or internal addresses. Changes to headsets are recorded in the asset system and reviewed every quarter. The service desk can help with headsets between 08:00 and 19:00 KST on working days. Managers approve requests related to headsets within 2 working days. If headsets does not work after 17 minutes, raise a ticket with category 'phone' and include the error text. Do not share screenshots of headsets that show account names or internal addresses. Warehouse staff on night shifts should use the phone kiosk instead of calling."
+ },
+ {
+  "id": "KB-1161#1",
+  "article": "KB-1161",
+  "title": "Warehouse management system logins",
+  "text": "Warehouse management system logins: role-based access. This article explains role-based access for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with role-based access are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the wms kiosk instead of calling. Changes to role-based access are recorded in the asset system and reviewed every quarter. Most problems with role-based access are fixed by signing out, waiting a minute, and signing in again. Changes to role-based access are recorded in the asset system and reviewed every quarter. Verify the wms settings and make sure role-based access is enabled before you continue. Most problems with role-based access are fixed by signing out, waiting a minute, and signing in again. Open the wms settings and make sure role-based access is enabled before you continue. Open the wms settings and make sure role-based access is enabled before you continue."
+ },
+ {
+  "id": "KB-1161#2",
+  "article": "KB-1161",
+  "title": "Warehouse management system logins",
+  "text": "Warehouse management system logins: shift handover. This article explains shift handover for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to shift handover are recorded in the asset system and reviewed every quarter. The service desk can help with shift handover between 08:00 and 19:00 KST on working days. Do not share screenshots of shift handover that show account names or internal addresses. Changes to shift handover are recorded in the asset system and reviewed every quarter. Changes to shift handover are recorded in the asset system and reviewed every quarter. Verify the wms settings and make sure shift handover is enabled before you continue. If shift handover does not work after 12 minutes, raise a ticket with category 'wms' and include the error text. If shift handover does not work after 25 minutes, raise a ticket with category 'wms' and include the error text. Warehouse staff on night shifts should use the wms kiosk instead of calling."
+ },
+ {
+  "id": "KB-1161#3",
+  "article": "KB-1161",
+  "title": "Warehouse management system logins",
+  "text": "Warehouse management system logins: locked sessions. This article explains locked sessions for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to locked sessions are recorded in the asset system and reviewed every quarter. If locked sessions does not work after 6 minutes, raise a ticket with category 'wms' and include the error text. Restart the wms settings and make sure locked sessions is enabled before you continue. Do not share screenshots of locked sessions that show account names or internal addresses. If locked sessions does not work after 10 minutes, raise a ticket with category 'wms' and include the error text. Select the wms settings and make sure locked sessions is enabled before you continue. Managers approve requests related to locked sessions within 26 working days. Most problems with locked sessions are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1161#4",
+  "article": "KB-1161",
+  "title": "Warehouse management system logins",
+  "text": "Warehouse management system logins: training accounts. This article explains training accounts for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If training accounts does not work after 4 minutes, raise a ticket with category 'wms' and include the error text. If training accounts does not work after 23 minutes, raise a ticket with category 'wms' and include the error text. Most problems with training accounts are fixed by signing out, waiting a minute, and signing in again. The service desk can help with training accounts between 08:00 and 19:00 KST on working days. Do not share screenshots of training accounts that show account names or internal addresses. Warehouse staff on night shifts should use the wms kiosk instead of calling. The service desk can help with training accounts between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1168#1",
+  "article": "KB-1168",
+  "title": "Fleet tablet support",
+  "text": "Fleet tablet support: driver tablets. This article explains driver tablets for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to driver tablets are recorded in the asset system and reviewed every quarter. Managers approve requests related to driver tablets within 8 working days. Changes to driver tablets are recorded in the asset system and reviewed every quarter. If driver tablets does not work after 24 minutes, raise a ticket with category 'tablet' and include the error text. Managers approve requests related to driver tablets within 29 working days. Managers approve requests related to driver tablets within 22 working days. Warehouse staff on night shifts should use the tablet kiosk instead of calling. If driver tablets does not work after 12 minutes, raise a ticket with category 'tablet' and include the error text. Do not share screenshots of driver tablets that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1168#2",
+  "article": "KB-1168",
+  "title": "Fleet tablet support",
+  "text": "Fleet tablet support: route app crashes. This article explains route app crashes for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with route app crashes are fixed by signing out, waiting a minute, and signing in again. Most problems with route app crashes are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the tablet kiosk instead of calling. Warehouse staff on night shifts should use the tablet kiosk instead of calling. Warehouse staff on night shifts should use the tablet kiosk instead of calling. If route app crashes does not work after 29 minutes, raise a ticket with category 'tablet' and include the error text. If route app crashes does not work after 7 minutes, raise a ticket with category 'tablet' and include the error text. The service desk can help with route app crashes between 08:00 and 19:00 KST on working days. Do not share screenshots of route app crashes that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1168#3",
+  "article": "KB-1168",
+  "title": "Fleet tablet support",
+  "text": "Fleet tablet support: mobile data. This article explains mobile data for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with mobile data between 08:00 and 19:00 KST on working days. Do not share screenshots of mobile data that show account names or internal addresses. Do not share screenshots of mobile data that show account names or internal addresses. Managers approve requests related to mobile data within 21 working days. Do not share screenshots of mobile data that show account names or internal addresses. If mobile data does not work after 15 minutes, raise a ticket with category 'tablet' and include the error text. Warehouse staff on night shifts should use the tablet kiosk instead of calling. Managers approve requests related to mobile data within 24 working days. The service desk can help with mobile data between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1168#4",
+  "article": "KB-1168",
+  "title": "Fleet tablet support",
+  "text": "Fleet tablet support: replacement process. This article explains replacement process for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the tablet kiosk instead of calling. Most problems with replacement process are fixed by signing out, waiting a minute, and signing in again. Most problems with replacement process are fixed by signing out, waiting a minute, and signing in again. Select the tablet settings and make sure replacement process is enabled before you continue. Confirm the tablet settings and make sure replacement process is enabled before you continue. Restart the tablet settings and make sure replacement process is enabled before you continue. Managers approve requests related to replacement process within 22 working days. Most problems with replacement process are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1175#1",
+  "article": "KB-1175",
+  "title": "Security incident reporting",
+  "text": "Security incident reporting: what counts as an incident. This article explains what counts as an incident for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to what counts as an incident are recorded in the asset system and reviewed every quarter. Changes to what counts as an incident are recorded in the asset system and reviewed every quarter. The service desk can help with what counts as an incident between 08:00 and 19:00 KST on working days. The service desk can help with what counts as an incident between 08:00 and 19:00 KST on working days. Contact the incident settings and make sure what counts as an incident is enabled before you continue. If what counts as an incident does not work after 20 minutes, raise a ticket with category 'incident' and include the error text. The service desk can help with what counts as an incident between 08:00 and 19:00 KST on working days. The service desk can help with what counts as an incident between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1175#2",
+  "article": "KB-1175",
+  "title": "Security incident reporting",
+  "text": "Security incident reporting: who to call. This article explains who to call for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Review the incident settings and make sure who to call is enabled before you continue. Warehouse staff on night shifts should use the incident kiosk instead of calling. Changes to who to call are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the incident kiosk instead of calling. Changes to who to call are recorded in the asset system and reviewed every quarter. The service desk can help with who to call between 08:00 and 19:00 KST on working days. The service desk can help with who to call between 08:00 and 19:00 KST on working days. Most problems with who to call are fixed by signing out, waiting a minute, and signing in again. Changes to who to call are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1175#3",
+  "article": "KB-1175",
+  "title": "Security incident reporting",
+  "text": "Security incident reporting: preserving evidence. This article explains preserving evidence for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to preserving evidence are recorded in the asset system and reviewed every quarter. If preserving evidence does not work after 20 minutes, raise a ticket with category 'incident' and include the error text. Managers approve requests related to preserving evidence within 13 working days. The service desk can help with preserving evidence between 08:00 and 19:00 KST on working days. Managers approve requests related to preserving evidence within 15 working days. Warehouse staff on night shifts should use the incident kiosk instead of calling. Do not share screenshots of preserving evidence that show account names or internal addresses. Update the incident settings and make sure preserving evidence is enabled before you continue."
+ },
+ {
+  "id": "KB-1175#4",
+  "article": "KB-1175",
+  "title": "Security incident reporting",
+  "text": "Security incident reporting: out-of-hours. This article explains out-of-hours for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If out-of-hours does not work after 4 minutes, raise a ticket with category 'incident' and include the error text. If out-of-hours does not work after 26 minutes, raise a ticket with category 'incident' and include the error text. Warehouse staff on night shifts should use the incident kiosk instead of calling. Managers approve requests related to out-of-hours within 13 working days. The service desk can help with out-of-hours between 08:00 and 19:00 KST on working days. Managers approve requests related to out-of-hours within 19 working days. Most problems with out-of-hours are fixed by signing out, waiting a minute, and signing in again. If out-of-hours does not work after 2 minutes, raise a ticket with category 'incident' and include the error text."
+ },
+ {
+  "id": "KB-1182#1",
+  "article": "KB-1182",
+  "title": "Acceptable use policy",
+  "text": "Acceptable use policy: personal use. This article explains personal use for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Contact the aup settings and make sure personal use is enabled before you continue. If personal use does not work after 21 minutes, raise a ticket with category 'aup' and include the error text. Do not share screenshots of personal use that show account names or internal addresses. Changes to personal use are recorded in the asset system and reviewed every quarter. The service desk can help with personal use between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the aup kiosk instead of calling. Confirm the aup settings and make sure personal use is enabled before you continue. Changes to personal use are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the aup kiosk instead of calling. Managers approve requests related to personal use within 26 working days."
+ },
+ {
+  "id": "KB-1182#2",
+  "article": "KB-1182",
+  "title": "Acceptable use policy",
+  "text": "Acceptable use policy: prohibited content. This article explains prohibited content for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with prohibited content between 08:00 and 19:00 KST on working days. Most problems with prohibited content are fixed by signing out, waiting a minute, and signing in again. Open the aup settings and make sure prohibited content is enabled before you continue. Changes to prohibited content are recorded in the asset system and reviewed every quarter. Most problems with prohibited content are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the aup kiosk instead of calling. Do not share screenshots of prohibited content that show account names or internal addresses. Changes to prohibited content are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1182#3",
+  "article": "KB-1182",
+  "title": "Acceptable use policy",
+  "text": "Acceptable use policy: monitoring notice. This article explains monitoring notice for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the aup kiosk instead of calling. The service desk can help with monitoring notice between 08:00 and 19:00 KST on working days. Update the aup settings and make sure monitoring notice is enabled before you continue. Do not share screenshots of monitoring notice that show account names or internal addresses. Managers approve requests related to monitoring notice within 5 working days. Check the aup settings and make sure monitoring notice is enabled before you continue. Contact the aup settings and make sure monitoring notice is enabled before you continue. The service desk can help with monitoring notice between 08:00 and 19:00 KST on working days. Most problems with monitoring notice are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1182#4",
+  "article": "KB-1182",
+  "title": "Acceptable use policy",
+  "text": "Acceptable use policy: consequences. This article explains consequences for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to consequences within 27 working days. If consequences does not work after 25 minutes, raise a ticket with category 'aup' and include the error text. Most problems with consequences are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the aup kiosk instead of calling. Do not share screenshots of consequences that show account names or internal addresses. Review the aup settings and make sure consequences is enabled before you continue. Warehouse staff on night shifts should use the aup kiosk instead of calling. If consequences does not work after 22 minutes, raise a ticket with category 'aup' and include the error text. Managers approve requests related to consequences within 10 working days."
+ },
+ {
+  "id": "KB-1189#1",
+  "article": "KB-1189",
+  "title": "Cloud storage limits",
+  "text": "Cloud storage limits: quota increases. This article explains quota increases for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Confirm the storage settings and make sure quota increases is enabled before you continue. Warehouse staff on night shifts should use the storage kiosk instead of calling. Most problems with quota increases are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of quota increases that show account names or internal addresses. Changes to quota increases are recorded in the asset system and reviewed every quarter. Managers approve requests related to quota increases within 12 working days. Open the storage settings and make sure quota increases is enabled before you continue. Managers approve requests related to quota increases within 29 working days. Changes to quota increases are recorded in the asset system and reviewed every quarter. Do not share screenshots of quota increases that show account names or internal addresses. Do not share screenshots of quota increases that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1189#2",
+  "article": "KB-1189",
+  "title": "Cloud storage limits",
+  "text": "Cloud storage limits: large files. This article explains large files for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the storage kiosk instead of calling. Managers approve requests related to large files within 2 working days. If large files does not work after 26 minutes, raise a ticket with category 'storage' and include the error text. Most problems with large files are fixed by signing out, waiting a minute, and signing in again. Changes to large files are recorded in the asset system and reviewed every quarter. Do not share screenshots of large files that show account names or internal addresses. The service desk can help with large files between 08:00 and 19:00 KST on working days. Changes to large files are recorded in the asset system and reviewed every quarter. If large files does not work after 19 minutes, raise a ticket with category 'storage' and include the error text."
+ },
+ {
+  "id": "KB-1189#3",
+  "article": "KB-1189",
+  "title": "Cloud storage limits",
+  "text": "Cloud storage limits: archiving. This article explains archiving for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with archiving between 08:00 and 19:00 KST on working days. Select the storage settings and make sure archiving is enabled before you continue. Do not share screenshots of archiving that show account names or internal addresses. Check the storage settings and make sure archiving is enabled before you continue. Managers approve requests related to archiving within 12 working days. Managers approve requests related to archiving within 4 working days. Changes to archiving are recorded in the asset system and reviewed every quarter. The service desk can help with archiving between 08:00 and 19:00 KST on working days. Managers approve requests related to archiving within 25 working days. Changes to archiving are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1189#4",
+  "article": "KB-1189",
+  "title": "Cloud storage limits",
+  "text": "Cloud storage limits: sync conflicts. This article explains sync conflicts for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with sync conflicts between 08:00 and 19:00 KST on working days. The service desk can help with sync conflicts between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the storage kiosk instead of calling. Warehouse staff on night shifts should use the storage kiosk instead of calling. Most problems with sync conflicts are fixed by signing out, waiting a minute, and signing in again. The service desk can help with sync conflicts between 08:00 and 19:00 KST on working days. Changes to sync conflicts are recorded in the asset system and reviewed every quarter. Managers approve requests related to sync conflicts within 15 working days. Check the storage settings and make sure sync conflicts is enabled before you continue."
+ },
+ {
+  "id": "KB-1196#1",
+  "article": "KB-1196",
+  "title": "Service desk hours and SLAs",
+  "text": "Service desk hours and SLAs: support hours. This article explains support hours for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Select the sla settings and make sure support hours is enabled before you continue. Do not share screenshots of support hours that show account names or internal addresses. Most problems with support hours are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to support hours within 8 working days. Contact the sla settings and make sure support hours is enabled before you continue. Warehouse staff on night shifts should use the sla kiosk instead of calling. Warehouse staff on night shifts should use the sla kiosk instead of calling. Do not share screenshots of support hours that show account names or internal addresses. Changes to support hours are recorded in the asset system and reviewed every quarter. Changes to support hours are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1196#2",
+  "article": "KB-1196",
+  "title": "Service desk hours and SLAs",
+  "text": "Service desk hours and SLAs: priority levels. This article explains priority levels for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Review the sla settings and make sure priority levels is enabled before you continue. If priority levels does not work after 25 minutes, raise a ticket with category 'sla' and include the error text. Most problems with priority levels are fixed by signing out, waiting a minute, and signing in again. Most problems with priority levels are fixed by signing out, waiting a minute, and signing in again. The service desk can help with priority levels between 08:00 and 19:00 KST on working days. Do not share screenshots of priority levels that show account names or internal addresses. Warehouse staff on night shifts should use the sla kiosk instead of calling. Restart the sla settings and make sure priority levels is enabled before you continue. Most problems with priority levels are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1196#3",
+  "article": "KB-1196",
+  "title": "Service desk hours and SLAs",
+  "text": "Service desk hours and SLAs: response targets. This article explains response targets for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Confirm the sla settings and make sure response targets is enabled before you continue. If response targets does not work after 20 minutes, raise a ticket with category 'sla' and include the error text. Do not share screenshots of response targets that show account names or internal addresses. Contact the sla settings and make sure response targets is enabled before you continue. The service desk can help with response targets between 08:00 and 19:00 KST on working days. Contact the sla settings and make sure response targets is enabled before you continue. Most problems with response targets are fixed by signing out, waiting a minute, and signing in again. Open the sla settings and make sure response targets is enabled before you continue."
+ },
+ {
+  "id": "KB-1196#4",
+  "article": "KB-1196",
+  "title": "Service desk hours and SLAs",
+  "text": "Service desk hours and SLAs: escalation path. This article explains escalation path for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to escalation path are recorded in the asset system and reviewed every quarter. Most problems with escalation path are fixed by signing out, waiting a minute, and signing in again. If escalation path does not work after 6 minutes, raise a ticket with category 'sla' and include the error text. Warehouse staff on night shifts should use the sla kiosk instead of calling. Most problems with escalation path are fixed by signing out, waiting a minute, and signing in again. If escalation path does not work after 14 minutes, raise a ticket with category 'sla' and include the error text. Do not share screenshots of escalation path that show account names or internal addresses. Warehouse staff on night shifts should use the sla kiosk instead of calling."
+ },
+ {
+  "id": "KB-1203#1",
+  "article": "KB-1203",
+  "title": "Encryption on laptops",
+  "text": "Encryption on laptops: BitLocker. This article explains BitLocker for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with BitLocker between 08:00 and 19:00 KST on working days. Do not share screenshots of BitLocker that show account names or internal addresses. Managers approve requests related to BitLocker within 19 working days. Warehouse staff on night shifts should use the encryption kiosk instead of calling. Changes to BitLocker are recorded in the asset system and reviewed every quarter. Do not share screenshots of BitLocker that show account names or internal addresses. Update the encryption settings and make sure BitLocker is enabled before you continue. Do not share screenshots of BitLocker that show account names or internal addresses. Restart the encryption settings and make sure BitLocker is enabled before you continue. Changes to BitLocker are recorded in the asset system and reviewed every quarter. Select the encryption settings and make sure BitLocker is enabled before you continue."
+ },
+ {
+  "id": "KB-1203#2",
+  "article": "KB-1203",
+  "title": "Encryption on laptops",
+  "text": "Encryption on laptops: recovery keys. This article explains recovery keys for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to recovery keys are recorded in the asset system and reviewed every quarter. Managers approve requests related to recovery keys within 12 working days. Do not share screenshots of recovery keys that show account names or internal addresses. Most problems with recovery keys are fixed by signing out, waiting a minute, and signing in again. The service desk can help with recovery keys between 08:00 and 19:00 KST on working days. Changes to recovery keys are recorded in the asset system and reviewed every quarter. Changes to recovery keys are recorded in the asset system and reviewed every quarter. Managers approve requests related to recovery keys within 8 working days. Warehouse staff on night shifts should use the encryption kiosk instead of calling. Changes to recovery keys are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1203#3",
+  "article": "KB-1203",
+  "title": "Encryption on laptops",
+  "text": "Encryption on laptops: pre-boot PIN. This article explains pre-boot PIN for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the encryption kiosk instead of calling. Most problems with pre-boot PIN are fixed by signing out, waiting a minute, and signing in again. Restart the encryption settings and make sure pre-boot PIN is enabled before you continue. Most problems with pre-boot PIN are fixed by signing out, waiting a minute, and signing in again. Changes to pre-boot PIN are recorded in the asset system and reviewed every quarter. Do not share screenshots of pre-boot PIN that show account names or internal addresses. Warehouse staff on night shifts should use the encryption kiosk instead of calling. Warehouse staff on night shifts should use the encryption kiosk instead of calling. The service desk can help with pre-boot PIN between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1203#4",
+  "article": "KB-1203",
+  "title": "Encryption on laptops",
+  "text": "Encryption on laptops: lost-device procedure. This article explains lost-device procedure for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with lost-device procedure between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the encryption kiosk instead of calling. If lost-device procedure does not work after 5 minutes, raise a ticket with category 'encryption' and include the error text. The service desk can help with lost-device procedure between 08:00 and 19:00 KST on working days. The service desk can help with lost-device procedure between 08:00 and 19:00 KST on working days. Do not share screenshots of lost-device procedure that show account names or internal addresses. If lost-device procedure does not work after 26 minutes, raise a ticket with category 'encryption' and include the error text."
+ },
+ {
+  "id": "KB-1210#1",
+  "article": "KB-1210",
+  "title": "Passwords for shared accounts",
+  "text": "Passwords for shared accounts: the password vault. This article explains the password vault for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If the password vault does not work after 15 minutes, raise a ticket with category 'vault' and include the error text. Changes to the password vault are recorded in the asset system and reviewed every quarter. Managers approve requests related to the password vault within 4 working days. Most problems with the password vault are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to the password vault within 13 working days. Most problems with the password vault are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the vault kiosk instead of calling. Managers approve requests related to the password vault within 16 working days."
+ },
+ {
+  "id": "KB-1210#2",
+  "article": "KB-1210",
+  "title": "Passwords for shared accounts",
+  "text": "Passwords for shared accounts: rotation schedule. This article explains rotation schedule for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to rotation schedule within 26 working days. Warehouse staff on night shifts should use the vault kiosk instead of calling. Do not share screenshots of rotation schedule that show account names or internal addresses. Do not share screenshots of rotation schedule that show account names or internal addresses. Most problems with rotation schedule are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to rotation schedule within 17 working days. Most problems with rotation schedule are fixed by signing out, waiting a minute, and signing in again. Most problems with rotation schedule are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1210#3",
+  "article": "KB-1210",
+  "title": "Passwords for shared accounts",
+  "text": "Passwords for shared accounts: break-glass accounts. This article explains break-glass accounts for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Submit the vault settings and make sure break-glass accounts is enabled before you continue. Managers approve requests related to break-glass accounts within 10 working days. Most problems with break-glass accounts are fixed by signing out, waiting a minute, and signing in again. The service desk can help with break-glass accounts between 08:00 and 19:00 KST on working days. Changes to break-glass accounts are recorded in the asset system and reviewed every quarter. Changes to break-glass accounts are recorded in the asset system and reviewed every quarter. Most problems with break-glass accounts are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of break-glass accounts that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1210#4",
+  "article": "KB-1210",
+  "title": "Passwords for shared accounts",
+  "text": "Passwords for shared accounts: audit logs. This article explains audit logs for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with audit logs between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the vault kiosk instead of calling. Most problems with audit logs are fixed by signing out, waiting a minute, and signing in again. Confirm the vault settings and make sure audit logs is enabled before you continue. The service desk can help with audit logs between 08:00 and 19:00 KST on working days. Changes to audit logs are recorded in the asset system and reviewed every quarter. Managers approve requests related to audit logs within 29 working days. Changes to audit logs are recorded in the asset system and reviewed every quarter. If audit logs does not work after 24 minutes, raise a ticket with category 'vault' and include the error text. Most problems with audit logs are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1217#1",
+  "article": "KB-1217",
+  "title": "Korean input and fonts",
+  "text": "Korean input and fonts: IME settings. This article explains IME settings for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with IME settings between 08:00 and 19:00 KST on working days. Changes to IME settings are recorded in the asset system and reviewed every quarter. Changes to IME settings are recorded in the asset system and reviewed every quarter. Do not share screenshots of IME settings that show account names or internal addresses. If IME settings does not work after 20 minutes, raise a ticket with category 'korean' and include the error text. Managers approve requests related to IME settings within 15 working days. Managers approve requests related to IME settings within 21 working days. Managers approve requests related to IME settings within 24 working days. Do not share screenshots of IME settings that show account names or internal addresses. Do not share screenshots of IME settings that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1217#2",
+  "article": "KB-1217",
+  "title": "Korean input and fonts",
+  "text": "Korean input and fonts: Hangul fonts. This article explains Hangul fonts for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the korean kiosk instead of calling. Changes to Hangul fonts are recorded in the asset system and reviewed every quarter. Do not share screenshots of Hangul fonts that show account names or internal addresses. Do not share screenshots of Hangul fonts that show account names or internal addresses. Most problems with Hangul fonts are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to Hangul fonts within 6 working days. Submit the korean settings and make sure Hangul fonts is enabled before you continue. Do not share screenshots of Hangul fonts that show account names or internal addresses. Select the korean settings and make sure Hangul fonts is enabled before you continue. Warehouse staff on night shifts should use the korean kiosk instead of calling."
+ },
+ {
+  "id": "KB-1217#3",
+  "article": "KB-1217",
+  "title": "Korean input and fonts",
+  "text": "Korean input and fonts: keyboard layouts. This article explains keyboard layouts for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of keyboard layouts that show account names or internal addresses. Managers approve requests related to keyboard layouts within 20 working days. Changes to keyboard layouts are recorded in the asset system and reviewed every quarter. If keyboard layouts does not work after 3 minutes, raise a ticket with category 'korean' and include the error text. Managers approve requests related to keyboard layouts within 13 working days. Changes to keyboard layouts are recorded in the asset system and reviewed every quarter. Confirm the korean settings and make sure keyboard layouts is enabled before you continue. Select the korean settings and make sure keyboard layouts is enabled before you continue."
+ },
+ {
+  "id": "KB-1217#4",
+  "article": "KB-1217",
+  "title": "Korean input and fonts",
+  "text": "Korean input and fonts: encoding errors. This article explains encoding errors for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of encoding errors that show account names or internal addresses. Changes to encoding errors are recorded in the asset system and reviewed every quarter. Open the korean settings and make sure encoding errors is enabled before you continue. If encoding errors does not work after 22 minutes, raise a ticket with category 'korean' and include the error text. Most problems with encoding errors are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of encoding errors that show account names or internal addresses. Warehouse staff on night shifts should use the korean kiosk instead of calling. Changes to encoding errors are recorded in the asset system and reviewed every quarter. Managers approve requests related to encoding errors within 20 working days."
+ },
+ {
+  "id": "KB-1224#1",
+  "article": "KB-1224",
+  "title": "Collaboration chat",
+  "text": "Collaboration chat: channels. This article explains channels for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of channels that show account names or internal addresses. Managers approve requests related to channels within 27 working days. Warehouse staff on night shifts should use the chat kiosk instead of calling. If channels does not work after 27 minutes, raise a ticket with category 'chat' and include the error text. Open the chat settings and make sure channels is enabled before you continue. The service desk can help with channels between 08:00 and 19:00 KST on working days. If channels does not work after 6 minutes, raise a ticket with category 'chat' and include the error text. Most problems with channels are fixed by signing out, waiting a minute, and signing in again. If channels does not work after 3 minutes, raise a ticket with category 'chat' and include the error text."
+ },
+ {
+  "id": "KB-1224#2",
+  "article": "KB-1224",
+  "title": "Collaboration chat",
+  "text": "Collaboration chat: guest access. This article explains guest access for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with guest access between 08:00 and 19:00 KST on working days. Most problems with guest access are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of guest access that show account names or internal addresses. Warehouse staff on night shifts should use the chat kiosk instead of calling. Warehouse staff on night shifts should use the chat kiosk instead of calling. Managers approve requests related to guest access within 25 working days. If guest access does not work after 28 minutes, raise a ticket with category 'chat' and include the error text. Warehouse staff on night shifts should use the chat kiosk instead of calling. Do not share screenshots of guest access that show account names or internal addresses. Managers approve requests related to guest access within 18 working days. Changes to guest access are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1224#3",
+  "article": "KB-1224",
+  "title": "Collaboration chat",
+  "text": "Collaboration chat: file sharing. This article explains file sharing for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with file sharing are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of file sharing that show account names or internal addresses. Submit the chat settings and make sure file sharing is enabled before you continue. Most problems with file sharing are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to file sharing within 19 working days. Managers approve requests related to file sharing within 9 working days. If file sharing does not work after 4 minutes, raise a ticket with category 'chat' and include the error text. If file sharing does not work after 18 minutes, raise a ticket with category 'chat' and include the error text. If file sharing does not work after 29 minutes, raise a ticket with category 'chat' and include the error text."
+ },
+ {
+  "id": "KB-1224#4",
+  "article": "KB-1224",
+  "title": "Collaboration chat",
+  "text": "Collaboration chat: retention. This article explains retention for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Managers approve requests related to retention within 18 working days. The service desk can help with retention between 08:00 and 19:00 KST on working days. Do not share screenshots of retention that show account names or internal addresses. If retention does not work after 17 minutes, raise a ticket with category 'chat' and include the error text. The service desk can help with retention between 08:00 and 19:00 KST on working days. If retention does not work after 14 minutes, raise a ticket with category 'chat' and include the error text. Warehouse staff on night shifts should use the chat kiosk instead of calling. Warehouse staff on night shifts should use the chat kiosk instead of calling. Changes to retention are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1231#1",
+  "article": "KB-1231",
+  "title": "Customer portal outages",
+  "text": "Customer portal outages: status page. This article explains status page for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with status page between 08:00 and 19:00 KST on working days. If status page does not work after 29 minutes, raise a ticket with category 'portal' and include the error text. The service desk can help with status page between 08:00 and 19:00 KST on working days. If status page does not work after 28 minutes, raise a ticket with category 'portal' and include the error text. Managers approve requests related to status page within 12 working days. Most problems with status page are fixed by signing out, waiting a minute, and signing in again. Do not share screenshots of status page that show account names or internal addresses. Changes to status page are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the portal kiosk instead of calling. The service desk can help with status page between 08:00 and 19:00 KST on working days."
+ },
+ {
+  "id": "KB-1231#2",
+  "article": "KB-1231",
+  "title": "Customer portal outages",
+  "text": "Customer portal outages: known issues. This article explains known issues for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of known issues that show account names or internal addresses. If known issues does not work after 24 minutes, raise a ticket with category 'portal' and include the error text. Most problems with known issues are fixed by signing out, waiting a minute, and signing in again. If known issues does not work after 15 minutes, raise a ticket with category 'portal' and include the error text. Restart the portal settings and make sure known issues is enabled before you continue. Open the portal settings and make sure known issues is enabled before you continue. The service desk can help with known issues between 08:00 and 19:00 KST on working days. Do not share screenshots of known issues that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1231#3",
+  "article": "KB-1231",
+  "title": "Customer portal outages",
+  "text": "Customer portal outages: workarounds. This article explains workarounds for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to workarounds are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the portal kiosk instead of calling. Do not share screenshots of workarounds that show account names or internal addresses. Most problems with workarounds are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the portal kiosk instead of calling. Managers approve requests related to workarounds within 25 working days. Changes to workarounds are recorded in the asset system and reviewed every quarter. Submit the portal settings and make sure workarounds is enabled before you continue. Managers approve requests related to workarounds within 7 working days. Verify the portal settings and make sure workarounds is enabled before you continue. Changes to workarounds are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1231#4",
+  "article": "KB-1231",
+  "title": "Customer portal outages",
+  "text": "Customer portal outages: customer communication. This article explains customer communication for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If customer communication does not work after 27 minutes, raise a ticket with category 'portal' and include the error text. Update the portal settings and make sure customer communication is enabled before you continue. Warehouse staff on night shifts should use the portal kiosk instead of calling. Changes to customer communication are recorded in the asset system and reviewed every quarter. Most problems with customer communication are fixed by signing out, waiting a minute, and signing in again. Select the portal settings and make sure customer communication is enabled before you continue. The service desk can help with customer communication between 08:00 and 19:00 KST on working days. Managers approve requests related to customer communication within 15 working days."
+ },
+ {
+  "id": "KB-1238#1",
+  "article": "KB-1238",
+  "title": "Monitor and docking stations",
+  "text": "Monitor and docking stations: supported docks. This article explains supported docks for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If supported docks does not work after 19 minutes, raise a ticket with category 'dock' and include the error text. If supported docks does not work after 20 minutes, raise a ticket with category 'dock' and include the error text. If supported docks does not work after 19 minutes, raise a ticket with category 'dock' and include the error text. Restart the dock settings and make sure supported docks is enabled before you continue. Managers approve requests related to supported docks within 10 working days. Warehouse staff on night shifts should use the dock kiosk instead of calling. Update the dock settings and make sure supported docks is enabled before you continue. Managers approve requests related to supported docks within 2 working days."
+ },
+ {
+  "id": "KB-1238#2",
+  "article": "KB-1238",
+  "title": "Monitor and docking stations",
+  "text": "Monitor and docking stations: display settings. This article explains display settings for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the dock kiosk instead of calling. The service desk can help with display settings between 08:00 and 19:00 KST on working days. Do not share screenshots of display settings that show account names or internal addresses. The service desk can help with display settings between 08:00 and 19:00 KST on working days. If display settings does not work after 12 minutes, raise a ticket with category 'dock' and include the error text. Changes to display settings are recorded in the asset system and reviewed every quarter. Managers approve requests related to display settings within 15 working days. The service desk can help with display settings between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the dock kiosk instead of calling."
+ },
+ {
+  "id": "KB-1238#3",
+  "article": "KB-1238",
+  "title": "Monitor and docking stations",
+  "text": "Monitor and docking stations: firmware. This article explains firmware for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of firmware that show account names or internal addresses. Managers approve requests related to firmware within 7 working days. Changes to firmware are recorded in the asset system and reviewed every quarter. Most problems with firmware are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the dock kiosk instead of calling. Changes to firmware are recorded in the asset system and reviewed every quarter. Managers approve requests related to firmware within 17 working days. Most problems with firmware are fixed by signing out, waiting a minute, and signing in again. Restart the dock settings and make sure firmware is enabled before you continue. Warehouse staff on night shifts should use the dock kiosk instead of calling."
+ },
+ {
+  "id": "KB-1238#4",
+  "article": "KB-1238",
+  "title": "Monitor and docking stations",
+  "text": "Monitor and docking stations: ordering. This article explains ordering for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of ordering that show account names or internal addresses. Do not share screenshots of ordering that show account names or internal addresses. If ordering does not work after 9 minutes, raise a ticket with category 'dock' and include the error text. Warehouse staff on night shifts should use the dock kiosk instead of calling. Check the dock settings and make sure ordering is enabled before you continue. Changes to ordering are recorded in the asset system and reviewed every quarter. The service desk can help with ordering between 08:00 and 19:00 KST on working days. Do not share screenshots of ordering that show account names or internal addresses. Changes to ordering are recorded in the asset system and reviewed every quarter. Most problems with ordering are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1245#1",
+  "article": "KB-1245",
+  "title": "Generative AI tools at work",
+  "text": "Generative AI tools at work: approved assistants. This article explains approved assistants for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of approved assistants that show account names or internal addresses. Managers approve requests related to approved assistants within 22 working days. Most problems with approved assistants are fixed by signing out, waiting a minute, and signing in again. Confirm the genai settings and make sure approved assistants is enabled before you continue. Do not share screenshots of approved assistants that show account names or internal addresses. Warehouse staff on night shifts should use the genai kiosk instead of calling. Most problems with approved assistants are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to approved assistants within 7 working days. Do not share screenshots of approved assistants that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1245#2",
+  "article": "KB-1245",
+  "title": "Generative AI tools at work",
+  "text": "Generative AI tools at work: what not to paste. This article explains what not to paste for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to what not to paste are recorded in the asset system and reviewed every quarter. Do not share screenshots of what not to paste that show account names or internal addresses. Do not share screenshots of what not to paste that show account names or internal addresses. Check the genai settings and make sure what not to paste is enabled before you continue. Warehouse staff on night shifts should use the genai kiosk instead of calling. Warehouse staff on night shifts should use the genai kiosk instead of calling. Managers approve requests related to what not to paste within 7 working days. Warehouse staff on night shifts should use the genai kiosk instead of calling. If what not to paste does not work after 27 minutes, raise a ticket with category 'genai' and include the error text."
+ },
+ {
+  "id": "KB-1245#3",
+  "article": "KB-1245",
+  "title": "Generative AI tools at work",
+  "text": "Generative AI tools at work: the helpdesk bot. This article explains the helpdesk bot for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Select the genai settings and make sure the helpdesk bot is enabled before you continue. Managers approve requests related to the helpdesk bot within 22 working days. Warehouse staff on night shifts should use the genai kiosk instead of calling. Open the genai settings and make sure the helpdesk bot is enabled before you continue. Most problems with the helpdesk bot are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to the helpdesk bot within 26 working days. If the helpdesk bot does not work after 13 minutes, raise a ticket with category 'genai' and include the error text. Most problems with the helpdesk bot are fixed by signing out, waiting a minute, and signing in again. Changes to the helpdesk bot are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1245#4",
+  "article": "KB-1245",
+  "title": "Generative AI tools at work",
+  "text": "Generative AI tools at work: reporting bad answers. This article explains reporting bad answers for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Submit the genai settings and make sure reporting bad answers is enabled before you continue. The service desk can help with reporting bad answers between 08:00 and 19:00 KST on working days. Changes to reporting bad answers are recorded in the asset system and reviewed every quarter. If reporting bad answers does not work after 15 minutes, raise a ticket with category 'genai' and include the error text. Most problems with reporting bad answers are fixed by signing out, waiting a minute, and signing in again. Managers approve requests related to reporting bad answers within 4 working days. If reporting bad answers does not work after 29 minutes, raise a ticket with category 'genai' and include the error text. Most problems with reporting bad answers are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1252#1",
+  "article": "KB-1252",
+  "title": "Travel and roaming",
+  "text": "Travel and roaming: roaming data. This article explains roaming data for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the travel kiosk instead of calling. Warehouse staff on night shifts should use the travel kiosk instead of calling. Warehouse staff on night shifts should use the travel kiosk instead of calling. Changes to roaming data are recorded in the asset system and reviewed every quarter. Open the travel settings and make sure roaming data is enabled before you continue. Changes to roaming data are recorded in the asset system and reviewed every quarter. Most problems with roaming data are fixed by signing out, waiting a minute, and signing in again. The service desk can help with roaming data between 08:00 and 19:00 KST on working days. Do not share screenshots of roaming data that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1252#2",
+  "article": "KB-1252",
+  "title": "Travel and roaming",
+  "text": "Travel and roaming: travel laptops. This article explains travel laptops for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If travel laptops does not work after 19 minutes, raise a ticket with category 'travel' and include the error text. Managers approve requests related to travel laptops within 28 working days. The service desk can help with travel laptops between 08:00 and 19:00 KST on working days. Do not share screenshots of travel laptops that show account names or internal addresses. Check the travel settings and make sure travel laptops is enabled before you continue. Managers approve requests related to travel laptops within 3 working days. Most problems with travel laptops are fixed by signing out, waiting a minute, and signing in again. Open the travel settings and make sure travel laptops is enabled before you continue. Most problems with travel laptops are fixed by signing out, waiting a minute, and signing in again. Most problems with travel laptops are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1252#3",
+  "article": "KB-1252",
+  "title": "Travel and roaming",
+  "text": "Travel and roaming: VPN abroad. This article explains VPN abroad for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with VPN abroad between 08:00 and 19:00 KST on working days. Changes to VPN abroad are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the travel kiosk instead of calling. Contact the travel settings and make sure VPN abroad is enabled before you continue. Changes to VPN abroad are recorded in the asset system and reviewed every quarter. Review the travel settings and make sure VPN abroad is enabled before you continue. Changes to VPN abroad are recorded in the asset system and reviewed every quarter. Verify the travel settings and make sure VPN abroad is enabled before you continue. Warehouse staff on night shifts should use the travel kiosk instead of calling. Changes to VPN abroad are recorded in the asset system and reviewed every quarter. Managers approve requests related to VPN abroad within 12 working days."
+ },
+ {
+  "id": "KB-1252#4",
+  "article": "KB-1252",
+  "title": "Travel and roaming",
+  "text": "Travel and roaming: lost devices abroad. This article explains lost devices abroad for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of lost devices abroad that show account names or internal addresses. The service desk can help with lost devices abroad between 08:00 and 19:00 KST on working days. Check the travel settings and make sure lost devices abroad is enabled before you continue. The service desk can help with lost devices abroad between 08:00 and 19:00 KST on working days. Do not share screenshots of lost devices abroad that show account names or internal addresses. Managers approve requests related to lost devices abroad within 5 working days. The service desk can help with lost devices abroad between 08:00 and 19:00 KST on working days. Confirm the travel settings and make sure lost devices abroad is enabled before you continue. Do not share screenshots of lost devices abroad that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1259#1",
+  "article": "KB-1259",
+  "title": "Accessibility support",
+  "text": "Accessibility support: screen readers. This article explains screen readers for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Check the accessibility settings and make sure screen readers is enabled before you continue. Managers approve requests related to screen readers within 3 working days. Managers approve requests related to screen readers within 26 working days. Do not share screenshots of screen readers that show account names or internal addresses. Managers approve requests related to screen readers within 15 working days. Do not share screenshots of screen readers that show account names or internal addresses. Managers approve requests related to screen readers within 9 working days. Contact the accessibility settings and make sure screen readers is enabled before you continue. The service desk can help with screen readers between 08:00 and 19:00 KST on working days. Managers approve requests related to screen readers within 11 working days. Managers approve requests related to screen readers within 28 working days. Managers approve requests related to screen readers within 8 working days."
+ },
+ {
+  "id": "KB-1259#2",
+  "article": "KB-1259",
+  "title": "Accessibility support",
+  "text": "Accessibility support: magnification. This article explains magnification for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the accessibility kiosk instead of calling. Verify the accessibility settings and make sure magnification is enabled before you continue. The service desk can help with magnification between 08:00 and 19:00 KST on working days. Managers approve requests related to magnification within 27 working days. Warehouse staff on night shifts should use the accessibility kiosk instead of calling. Submit the accessibility settings and make sure magnification is enabled before you continue. Contact the accessibility settings and make sure magnification is enabled before you continue. If magnification does not work after 15 minutes, raise a ticket with category 'accessibility' and include the error text."
+ },
+ {
+  "id": "KB-1259#3",
+  "article": "KB-1259",
+  "title": "Accessibility support",
+  "text": "Accessibility support: dictation. This article explains dictation for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. If dictation does not work after 24 minutes, raise a ticket with category 'accessibility' and include the error text. Warehouse staff on night shifts should use the accessibility kiosk instead of calling. Do not share screenshots of dictation that show account names or internal addresses. Do not share screenshots of dictation that show account names or internal addresses. Open the accessibility settings and make sure dictation is enabled before you continue. Changes to dictation are recorded in the asset system and reviewed every quarter. Managers approve requests related to dictation within 26 working days. Managers approve requests related to dictation within 10 working days. Do not share screenshots of dictation that show account names or internal addresses. Check the accessibility settings and make sure dictation is enabled before you continue. Do not share screenshots of dictation that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1259#4",
+  "article": "KB-1259",
+  "title": "Accessibility support",
+  "text": "Accessibility support: requesting equipment. This article explains requesting equipment for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with requesting equipment are fixed by signing out, waiting a minute, and signing in again. Open the accessibility settings and make sure requesting equipment is enabled before you continue. If requesting equipment does not work after 8 minutes, raise a ticket with category 'accessibility' and include the error text. If requesting equipment does not work after 15 minutes, raise a ticket with category 'accessibility' and include the error text. Managers approve requests related to requesting equipment within 7 working days. Open the accessibility settings and make sure requesting equipment is enabled before you continue. Submit the accessibility settings and make sure requesting equipment is enabled before you continue. Managers approve requests related to requesting equipment within 28 working days. Submit the accessibility settings and make sure requesting equipment is enabled before you continue."
+ },
+ {
+  "id": "KB-1266#1",
+  "article": "KB-1266",
+  "title": "Asset tags and inventory",
+  "text": "Asset tags and inventory: asset tags. This article explains asset tags for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Check the asset settings and make sure asset tags is enabled before you continue. Warehouse staff on night shifts should use the asset kiosk instead of calling. Changes to asset tags are recorded in the asset system and reviewed every quarter. Changes to asset tags are recorded in the asset system and reviewed every quarter. Changes to asset tags are recorded in the asset system and reviewed every quarter. Managers approve requests related to asset tags within 24 working days. Do not share screenshots of asset tags that show account names or internal addresses. The service desk can help with asset tags between 08:00 and 19:00 KST on working days. The service desk can help with asset tags between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the asset kiosk instead of calling."
+ },
+ {
+  "id": "KB-1266#2",
+  "article": "KB-1266",
+  "title": "Asset tags and inventory",
+  "text": "Asset tags and inventory: annual audit. This article explains annual audit for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the asset kiosk instead of calling. Verify the asset settings and make sure annual audit is enabled before you continue. The service desk can help with annual audit between 08:00 and 19:00 KST on working days. Changes to annual audit are recorded in the asset system and reviewed every quarter. If annual audit does not work after 4 minutes, raise a ticket with category 'asset' and include the error text. Warehouse staff on night shifts should use the asset kiosk instead of calling. Do not share screenshots of annual audit that show account names or internal addresses. The service desk can help with annual audit between 08:00 and 19:00 KST on working days. Warehouse staff on night shifts should use the asset kiosk instead of calling."
+ },
+ {
+  "id": "KB-1266#3",
+  "article": "KB-1266",
+  "title": "Asset tags and inventory",
+  "text": "Asset tags and inventory: moving equipment. This article explains moving equipment for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Warehouse staff on night shifts should use the asset kiosk instead of calling. If moving equipment does not work after 29 minutes, raise a ticket with category 'asset' and include the error text. Warehouse staff on night shifts should use the asset kiosk instead of calling. Select the asset settings and make sure moving equipment is enabled before you continue. Managers approve requests related to moving equipment within 18 working days. The service desk can help with moving equipment between 08:00 and 19:00 KST on working days. Most problems with moving equipment are fixed by signing out, waiting a minute, and signing in again. If moving equipment does not work after 18 minutes, raise a ticket with category 'asset' and include the error text."
+ },
+ {
+  "id": "KB-1266#4",
+  "article": "KB-1266",
+  "title": "Asset tags and inventory",
+  "text": "Asset tags and inventory: disposal. This article explains disposal for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with disposal are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the asset kiosk instead of calling. Do not share screenshots of disposal that show account names or internal addresses. Restart the asset settings and make sure disposal is enabled before you continue. If disposal does not work after 11 minutes, raise a ticket with category 'asset' and include the error text. Most problems with disposal are fixed by signing out, waiting a minute, and signing in again. Most problems with disposal are fixed by signing out, waiting a minute, and signing in again. The service desk can help with disposal between 08:00 and 19:00 KST on working days. Do not share screenshots of disposal that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1273#1",
+  "article": "KB-1273",
+  "title": "Certificates and code signing",
+  "text": "Certificates and code signing: internal CA. This article explains internal CA for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. The service desk can help with internal CA between 08:00 and 19:00 KST on working days. Do not share screenshots of internal CA that show account names or internal addresses. Changes to internal CA are recorded in the asset system and reviewed every quarter. The service desk can help with internal CA between 08:00 and 19:00 KST on working days. If internal CA does not work after 10 minutes, raise a ticket with category 'certificate' and include the error text. Warehouse staff on night shifts should use the certificate kiosk instead of calling. The service desk can help with internal CA between 08:00 and 19:00 KST on working days. Most problems with internal CA are fixed by signing out, waiting a minute, and signing in again."
+ },
+ {
+  "id": "KB-1273#2",
+  "article": "KB-1273",
+  "title": "Certificates and code signing",
+  "text": "Certificates and code signing: renewals. This article explains renewals for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Most problems with renewals are fixed by signing out, waiting a minute, and signing in again. Most problems with renewals are fixed by signing out, waiting a minute, and signing in again. The service desk can help with renewals between 08:00 and 19:00 KST on working days. Changes to renewals are recorded in the asset system and reviewed every quarter. Warehouse staff on night shifts should use the certificate kiosk instead of calling. Warehouse staff on night shifts should use the certificate kiosk instead of calling. If renewals does not work after 6 minutes, raise a ticket with category 'certificate' and include the error text. Warehouse staff on night shifts should use the certificate kiosk instead of calling. Changes to renewals are recorded in the asset system and reviewed every quarter."
+ },
+ {
+  "id": "KB-1273#3",
+  "article": "KB-1273",
+  "title": "Certificates and code signing",
+  "text": "Certificates and code signing: expired certificates. This article explains expired certificates for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Changes to expired certificates are recorded in the asset system and reviewed every quarter. The service desk can help with expired certificates between 08:00 and 19:00 KST on working days. Most problems with expired certificates are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the certificate kiosk instead of calling. Most problems with expired certificates are fixed by signing out, waiting a minute, and signing in again. Warehouse staff on night shifts should use the certificate kiosk instead of calling. Warehouse staff on night shifts should use the certificate kiosk instead of calling. Do not share screenshots of expired certificates that show account names or internal addresses."
+ },
+ {
+  "id": "KB-1273#4",
+  "article": "KB-1273",
+  "title": "Certificates and code signing",
+  "text": "Certificates and code signing: signing requests. This article explains signing requests for Hanbit Logistics staff and applies to all sites, including the Incheon and Busan warehouses. Do not share screenshots of signing requests that show account names or internal addresses. Changes to signing requests are recorded in the asset system and reviewed every quarter. Most problems with signing requests are fixed by signing out, waiting a minute, and signing in again. Update the certificate settings and make sure signing requests is enabled before you continue. Changes to signing requests are recorded in the asset system and reviewed every quarter. Changes to signing requests are recorded in the asset system and reviewed every quarter. The service desk can help with signing requests between 08:00 and 19:00 KST on working days. Changes to signing requests are recorded in the asset system and reviewed every quarter. Do not share screenshots of signing requests that show account names or internal addresses."
+ }
+]

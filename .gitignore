@@ -1,0 +1,9 @@
+out/
+logs/*/
+secrets/*
+!secrets/README.md
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+*.zip

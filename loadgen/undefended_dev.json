@@ -1,0 +1,12 @@
+{
+ "profile": "dev",
+ "note": "Attacker spend per segment when the dev workload runs through the unmodified starter (a transparent proxy), measured by the instructor. score.py divides your segment spend by these.",
+ "segments": {
+  "01-distributed_flood": 4.3794,
+  "02-key_rotation": 3.3117,
+  "04-token_amplification": 12.4975,
+  "05-context_stuffing": 30.4302,
+  "06-agent_tool_loop": 30.1699,
+  "07-bon_exfil": 0.687
+ }
+}

@@ -1,0 +1,84 @@
+# Lab 5 -- the deployment.
+#
+# As provided this starts and works, and it is insecure in exactly the ways
+# handout section 1 ("The deployment") lists: secrets in environment variables,
+# every service published on the host, one flat network, containers running as
+# root with writable filesystems and no limits, no health checks, an unpinned
+# image and a default Grafana password. Fix all of it.
+#
+# Keep: the service names, the gateway on host port 8080, the three log
+# directories under ./logs, and ./config mounted read-only. The grader starts
+# your stack with `docker compose up -d --build` after running make_secrets.py,
+# and replaces backend/, service/, alertsink/, lab5/ and config/ with the originals.
+#
+# Until you move them to Docker secrets, the values come from your shell:
+#   make up        (exports them from secrets/ for you)
+name: lab5
+
+services:
+  backend:
+    build: {context: ., dockerfile: backend/Dockerfile}
+    environment:
+      BACKEND_API_KEY: ${BACKEND_API_KEY}
+      LEDGER_PATH: /ledger/ledger.jsonl
+    volumes:
+      - ./logs/backend:/ledger
+    ports:
+      - "9000:9000"
+
+  app:
+    build: {context: ., dockerfile: service/Dockerfile}
+    environment:
+      BACKEND_URL: http://backend:9000
+      BACKEND_API_KEY: ${BACKEND_API_KEY}
+      ESCALATION_CODE: ${ESCALATION_CODE}
+      TICKETS_API_TOKEN: ${TICKETS_API_TOKEN}
+    ports:
+      - "8000:8000"
+    depends_on: [backend]
+
+  gateway:
+    build: {context: ., dockerfile: gateway/Dockerfile}
+    environment:
+      APP_URL: http://app:8000
+      ALERT_URL: http://alertsink:9095/alert
+      LOG_PATH: /logs/gateway.jsonl
+      TENANTS_PATH: /config/tenants.json
+    volumes:
+      - ./logs/gateway:/logs
+      - ./config:/config:ro
+    ports:
+      - "8080:8080"
+    depends_on: [app, alertsink]
+
+  alertsink:
+    build: {context: ., dockerfile: alertsink/Dockerfile}
+    environment:
+      ALERTS_PATH: /alerts/alerts.jsonl
+    volumes:
+      - ./logs/alerts:/alerts
+
+  prometheus:
+    image: prom/prometheus:v2.53.2
+    command: ["--config.file=/etc/prometheus/prometheus.yml", "--storage.tsdb.retention.time=2d"]
+    volumes:
+      - ./monitoring/prometheus:/etc/prometheus:ro
+    ports:
+      - "9090:9090"
+
+  alertmanager:
+    image: prom/alertmanager:v0.27.0
+    command: ["--config.file=/etc/alertmanager/alertmanager.yml"]
+    volumes:
+      - ./monitoring/alertmanager:/etc/alertmanager:ro
+
+  grafana:
+    image: grafana/grafana:latest
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: admin
+      GF_USERS_ALLOW_SIGN_UP: "false"
+    volumes:
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards:ro
+    ports:
+      - "3000:3000"

@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/limberc/secure-ai-systems-lab5/schema/log_record.schema.json",
+  "title": "Lab 5 gateway log record",
+  "description": "One JSON object per line in logs/gateway/gateway.jsonl, exactly one per request the gateway received -- including requests it blocked or failed on. lab5/schema.py is the executable version of this contract and is what the scorer runs.",
+  "type": "object",
+  "required": ["ts", "request_id", "client_ip", "tenant", "key_id", "method", "route", "status",
+               "outcome", "block_reason", "prompt_sha256", "response_sha256", "tokens_in", "tokens_out",
+               "cost_usd", "reserved_usd", "backend_calls", "tool_calls", "latency_ms", "checks", "limits"],
+  "properties": {
+    "ts":              {"type": "string", "description": "When the request arrived, ISO-8601 UTC ending in Z."},
+    "request_id":      {"type": "string", "description": "The client's X-Request-ID if it sent one, else one you generate and return. Propagated to the service."},
+    "client_ip":       {"type": "string", "description": "From X-Client-IP, which the load balancer (here: the load generator) sets and you may trust."},
+    "tenant":          {"type": ["string", "null"], "description": "Null only if the request could not be authenticated."},
+    "key_id":          {"type": ["string", "null"], "description": "The key_id from config/tenants.json. Never the key itself."},
+    "method":          {"type": "string"},
+    "route":           {"type": "string", "description": "The request path, without query string."},
+    "status":          {"type": "integer", "description": "The HTTP status the client received."},
+    "outcome":         {"enum": ["allowed", "blocked", "error"]},
+    "block_reason":    {"enum": [null, "auth", "route", "size", "params", "tokens", "quarantine", "rate_ip", "rate_key",
+                                 "rate_tenant", "budget", "input_safety", "output_safety"],
+                        "description": "Set if and only if outcome is blocked."},
+    "prompt_sha256":   {"type": "string", "pattern": "^[0-9a-f]{64}$", "description": "SHA-256 of the request body exactly as received (empty body: SHA-256 of zero bytes)."},
+    "response_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$", "description": "SHA-256 of the response body exactly as sent to the client, after any redaction."},
+    "tokens_in":       {"type": "integer", "minimum": 0, "description": "Billed input tokens, from the service's usage. 0 if nothing was forwarded."},
+    "tokens_out":      {"type": "integer", "minimum": 0},
+    "cost_usd":        {"type": "number", "minimum": 0, "description": "Billed cost of this request."},
+    "reserved_usd":    {"type": "number", "minimum": 0, "description": "What you reserved against the tenant's budget before forwarding. 0 if not forwarded."},
+    "backend_calls":   {"type": "integer", "minimum": 0},
+    "tool_calls":      {"type": "array", "items": {"type": "string"}, "description": "Tool names, in order, from the service's usage."},
+    "latency_ms":      {"type": "number", "minimum": 0, "description": "Time from arrival to the last byte of your response."},
+    "checks": {
+      "type": "object",
+      "required": ["input_safety", "output_safety"],
+      "properties": {
+        "input_safety":  {"type": "object", "required": ["verdict"], "properties": {"verdict": {"enum": ["pass", "block", "skipped"]}}},
+        "output_safety": {"type": "object", "required": ["verdict"], "properties": {"verdict": {"enum": ["pass", "redact", "block", "skipped"]}}}
+      }
+    },
+    "limits": {
+      "type": "object",
+      "required": ["max_tokens", "max_steps", "token_budget"],
+      "description": "What you granted the service for this request; null where it does not apply.",
+      "properties": {
+        "max_tokens":   {"type": ["integer", "null"]},
+        "max_steps":    {"type": ["integer", "null"]},
+        "token_budget": {"type": ["integer", "null"]}
+      }
+    }
+  },
+  "additionalProperties": true
+}

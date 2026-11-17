@@ -1,0 +1,51 @@
+{
+ "uid": "lab5-gateway",
+ "title": "Lab 5 \u2014 Gateway",
+ "schemaVersion": 39,
+ "version": 1,
+ "time": {
+  "from": "now-15m",
+  "to": "now"
+ },
+ "refresh": "5s",
+ "timezone": "browser",
+ "panels": [
+  {
+   "id": 1,
+   "type": "timeseries",
+   "title": "Requests per second, by HTTP status",
+   "gridPos": {
+    "x": 0,
+    "y": 0,
+    "w": 12,
+    "h": 8
+   },
+   "datasource": {
+    "type": "prometheus",
+    "uid": "lab5-prom"
+   },
+   "targets": [
+    {
+     "refId": "A",
+     "expr": "sum by (status) (rate(lab5_requests_total[30s]))",
+     "legendFormat": "{{status}}"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "type": "text",
+   "title": "TODO",
+   "gridPos": {
+    "x": 12,
+    "y": 0,
+    "w": 12,
+    "h": 8
+   },
+   "options": {
+    "mode": "markdown",
+    "content": "Add the panels your runbook's triage steps need: spend per tenant against its budget, tokens per minute, blocks by reason, latency percentiles, quarantined keys, alerts. Handout section 1."
+   }
+  }
+ ]
+}
